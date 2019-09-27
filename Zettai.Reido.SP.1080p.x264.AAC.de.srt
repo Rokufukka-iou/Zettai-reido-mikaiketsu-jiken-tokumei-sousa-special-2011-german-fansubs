@@ -1,0 +1,5520 @@
+﻿1
+00:00:04,820 --> 00:00:08,820
+In dieser Welt existiert eine Hölle namens ungeklärte Kriminalfälle.
+
+2
+00:00:11,700 --> 00:00:18,700
+Der absolute Nullpunkt liegt bei -273,15 °C. Jeder Stoff ist bei dieser Temperatur fest. Jedoch ist dieser nicht zu erreichen.
+
+3
+00:00:18,700 --> 00:00:27,840
+"Auch ein Fall kann nicht absolut perfekt sein. Dieser ist nicht abgeschlossen, wenn er nicht geklärt wurde." Das ist rein spekulativ.
+
+4
+00:00:27,840 --> 00:00:34,850
+In Japan existieren etwa 60.000 Cold Cases, oder anders ausgedrückt, ungeklärte Kriminalfälle.
+
+5
+00:00:34,850 --> 00:00:39,860
+Am 2. November 2009 wurde vom Hauptstadt-Polizeipräsidium in das Kriminaluntersuchungsamt 1
+
+6
+00:00:39,860 --> 00:00:46,860
+die Sonderabteilung für Kriminaluntersuchung und -prävention speziell für die Cold Cases eingerichtet.
+
+7
+00:00:46,860 --> 00:00:49,870
+Aufgrund der wenigen Beweise und den vagen Zeugenaussagen von Beteiligten,
+
+8
+00:00:49,870 --> 00:00:56,870
+erhofft man sich heute mit den neuesten Technologien und den besonders ausgewählten Ermittlern,
+
+9
+00:00:56,870 --> 00:01:01,870
+die Tag und Nacht im Einsatz sind, die Fälle zu lösen.
+
+10
+00:01:03,810 --> 00:01:09,820
+Ein Mitglied vom Amt 4 der Sonderabteilung für Kriminaluntersuchung und -prävention ist die Polizeimeisterin Sakuragi Izumi.
+
+11
+00:01:09,820 --> 00:01:14,820
+Wie viele Leben Sie auch retten, die Schuld der zwei Morde machen sie damit nicht wett.
+
+12
+00:01:14,820 --> 00:01:20,830
+Die Zahl der ungeklärten Fälle - und die Täter sind immer noch da draußen.
+
+13
+00:01:20,830 --> 00:01:24,830
+Und wenn sie Lust verspüren, wird es weitere Opfer geben.
+
+14
+00:01:24,830 --> 00:01:27,840
+Ein weiteres Mitglied ist Polizeimeister Tsukamoto Keigo.
+
+15
+00:01:27,840 --> 00:01:30,840
+Ich hasse diese ungeklärten Fälle.
+
+16
+00:01:30,840 --> 00:01:33,840
+Ein ungeklärter Fall ist eine Niederlage.
+
+17
+00:01:33,840 --> 00:01:36,850
+Polizeiobermeisterin Takamine Ryôko.
+
+18
+00:01:36,850 --> 00:01:41,850
+Diese ungeklärten Fälle reißen tiefe Wunden bei den Betroffenen auf und verschlimmern sich mit der Zeit.
+
+19
+00:01:41,850 --> 00:01:43,850
+Polizeihauptmeister Fukazawa Yûki.
+
+20
+00:01:43,850 --> 00:01:45,850
+Ihr Machtbereich also?
+
+21
+00:01:45,850 --> 00:01:48,850
+Sie werden den Fall nicht klären können.
+
+22
+00:01:48,850 --> 00:01:50,860
+Polizeimeister Shiraishi Shintarô.
+
+23
+00:01:50,860 --> 00:01:56,870
+Jeder gibt sein Möglichstes, damit wir nichts übersehen.
+
+24
+00:01:56,870 --> 00:01:58,870
+Vorsteher und Polizeihauptmeister Kurata Takumi.
+
+25
+00:01:58,870 --> 00:02:00,890
+Glauben Sie nicht, dass Sie damit davonkommen.
+
+26
+00:02:00,890 --> 00:02:02,800
+Die Polizei wird Ihnen auf den Fersen bleiben.
+
+27
+00:02:02,800 --> 00:02:04,810
+Die Toten werden wir nicht vergessen.
+
+28
+00:02:04,810 --> 00:02:08,810
+Und nicht zuletzt Abteilungsleiter und Polizeihauptkommissar Nagashima Hideo.
+
+29
+00:02:08,810 --> 00:02:13,810
+Der zu den Akten gelegte Fall ruft bei den Betroffenen den kalten Schmerz von damals hervor.
+
+30
+00:02:13,820 --> 00:02:21,820
+Wir können den Fall nur lösen und ihnen vielleicht ermöglichen nach der Trauer weiterzuleben.
+
+31
+00:02:21,820 --> 00:02:29,830
+Im dazugehörigen Labor Ômori Sae zusammen mit Takebayashi Shô, welche sie mannigfaltig bei den Fällen unterstützen.
+
+32
+00:02:29,830 --> 00:02:35,830
+Sie wirken mit, die eisigen Fälle wieder in Regung zu versetzen.
+
+33
+00:02:35,830 --> 00:02:39,850
+Der 300-Millionen-Yen-Tôdo-Bank-Fall.
+
+34
+00:02:39,850 --> 00:02:43,850
+Der Suginami-Oberschülerin-Kidnapping- und Mordfall.
+
+35
+00:02:43,850 --> 00:02:45,850
+Der Fall der Erschießung des Polizeimeisters.
+
+36
+00:02:45,850 --> 00:02:51,850
+Und für weitere Fälle, bei der die Untersuchungen über die Jahre zum Erliegen gekommen sind.
+
+37
+00:02:51,850 --> 00:02:55,860
+Es sind Gewaltverbrechen ohne einen Fortschritt.
+
+38
+00:02:55,860 --> 00:02:59,860
+Und nur einige wenige Fälle konnten geklärt werden.
+
+39
+00:02:59,860 --> 00:03:02,800
+Je mehr Zeit verstreicht, um so schwieriger gestalten sich die Untersuchungen.
+
+40
+00:03:02,800 --> 00:03:08,800
+Tatsache ist, dass eine große Zahl ungeklärter Fälle im Archiv verweilen.
+
+41
+00:03:08,800 --> 00:03:14,810
+Vor 14 Jahren wurde die Leiche einer jungen Frau naher einer hauptstädtischen Wohnung in Hachiôji gefunden.
+
+42
+00:03:14,810 --> 00:03:18,810
+Dieser, der als Hachiôji-Fall bekannt ist, ist ein solcher Fall.
+
+43
+00:03:20,700 --> 00:03:23,700
+21. Mai 1997
+
+44
+00:03:25,820 --> 00:03:28,820
+Guten Morgen! Willkommen!
+
+45
+00:03:28,820 --> 00:03:30,830
+Guten Morgen!
+
+46
+00:03:30,830 --> 00:03:32,830
+"Jetzt zu einer weiteren Nachricht."
+
+47
+00:03:32,830 --> 00:03:36,830
+"Ein Tatverdächtiger im Mordfall an einer Büroangestellten in Shibuya-ku konnte festgenommen werden."
+
+48
+00:03:36,830 --> 00:03:39,830
+"Der Verdächtige wohnte in einem zum Tatort benachbarten Gebäude."
+
+49
+00:03:39,830 --> 00:03:44,840
+"Der Ausländer wurde wegen des illegalen Aufenthaltes festgenommen."
+
+50
+00:03:44,840 --> 00:03:48,840
+"Jedoch beteuert er bis jetzt seine Unschuld."
+
+51
+00:03:48,840 --> 00:03:52,850
+"Das Fahndungshauptquartier sucht nach Schwierigkeiten, dass das Opfer gehabt haben könnte."
+
+52
+00:03:52,850 --> 00:03:55,850
+"Es untersucht auch, was das Motiv gewesen sein könnte."
+
+53
+00:03:55,850 --> 00:03:57,850
+Ah, was ist das?
+
+54
+00:04:01,790 --> 00:04:06,790
+"Heute Morgen gegen 7 Uhr wurde nahe eines Wohnblockes in der Innenstadt von Hachiôji in einer Mülltonne,
+
+55
+00:04:06,790 --> 00:04:10,800
+über 110 (Polizeinotruf in Japan), eine an der Brust blutüberströmte tote Frau gemeldet."
+
+56
+00:04:10,800 --> 00:04:15,800
+"Ihre Arme und Beine waren mit einem Seil gefesselt und ihr wurde in die Brust geschossen."
+
+57
+00:04:15,800 --> 00:04:17,810
+"Anschließend wurde sie in einen Plastikeimer gepackt."
+
+58
+00:04:17,810 --> 00:04:21,810
+"Um wen es sich handelt ist bisher nicht bekannt, nur dass sie zu in den 20ern bis 30ern ist."
+
+59
+00:04:24,200 --> 00:04:27,200
+5. Juni 2011
+
+60
+00:04:27,820 --> 00:04:29,820
+Wissen Sie, was Sie getan haben?
+
+61
+00:04:29,820 --> 00:04:31,820
+Es tut mir Leid! Bitte!
+
+62
+00:04:31,820 --> 00:04:35,820
+Sie Mistkerl! Sie sind dafür verantwortlich!
+
+63
+00:04:35,820 --> 00:04:37,820
+Ahh!
+
+64
+00:04:44,830 --> 00:04:47,840
+Los, machen Sie auf Bandô!
+
+65
+00:04:47,840 --> 00:04:50,840
+Geh Sie auf Seite!
+
+66
+00:05:18,800 --> 00:05:20,800
+Was geht da vor?
+
+67
+00:05:48,830 --> 00:05:54,840
+Ach, dieser verfluchte Staub.
+
+68
+00:05:58,840 --> 00:06:01,780
+Und weiter ...
+
+69
+00:06:01,780 --> 00:06:04,780
+Und hier haben wir auch Schimmel!
+
+70
+00:06:04,780 --> 00:06:07,780
+Deshalb müssen wir das alles vor der Regenzeit in Ordnung bringen.
+
+71
+00:06:07,780 --> 00:06:09,780
+Halt dich wacker!
+
+72
+00:06:09,780 --> 00:06:11,790
+Warum hälst du dich dann raus?
+
+73
+00:06:11,790 --> 00:06:15,790
+Wurden nicht bereits alle Unterlagen vom Hachiôji-Fall von Staub und Schimmel befreit?
+
+74
+00:06:15,790 --> 00:06:18,790
+Ich meine, weil du täglich die Akten durcharbeitest.
+
+75
+00:06:18,790 --> 00:06:23,800
+- Ich habe noch nicht alle wichtigen Hinweise gefunden.
+- Das habe ich nicht gemeint.
+
+76
+00:06:23,800 --> 00:06:27,800
+Hilf mir doch bitte beim Ordnen!
+
+77
+00:06:27,800 --> 00:06:31,810
+Wenn Sakuragi hier wäre, könnte ich mich davor drücken.
+
+78
+00:06:31,810 --> 00:06:35,810
+Ihr Sonderauftrag ist inzwischen ein halbes Jahr her.
+
+79
+00:06:39,200 --> 00:06:42,200
+(Hauptstadt-Polizeipräsidium - Amtsgebäude 2)
+
+80
+00:06:42,820 --> 00:06:44,820
+Lange Zeit nicht gesehen!
+
+81
+00:06:46,820 --> 00:06:50,830
+Das Ordnen der Akten ist abgeschlossen.
+
+82
+00:06:50,830 --> 00:06:52,830
+Ah, ich habe dich vermisst!
+
+83
+00:06:52,830 --> 00:06:55,830
+Schön von dir das zu hören, Mitsui-chan!
+
+84
+00:06:55,830 --> 00:06:57,830
+Willkommen zurück, Takamine-san!
+
+85
+00:06:57,830 --> 00:06:59,830
+- Jetzt bin ich zurück.
+- Wirklich!
+
+86
+00:06:59,830 --> 00:07:02,770
+Takamine! Heute ist also der Tag deiner Rückkehr ...
+
+87
+00:07:02,770 --> 00:07:04,770
+- Genau.
+- Das war jetzt zweideutig.
+
+88
+00:07:04,770 --> 00:07:07,780
+Wie war deine Fallanalyse-Schulung?
+
+89
+00:07:07,780 --> 00:07:09,780
+Ich fasse es noch gar nicht, dass es schon ein halbes Jahr her ist.
+
+90
+00:07:09,780 --> 00:07:11,780
+Nach dem Lernen von Grund auf, fühle mich wieder wie ein Neuling.
+
+91
+00:07:11,780 --> 00:07:14,780
+- Fukazawa geht's übrigens gut.
+- Du hast ihn getroffen?
+
+92
+00:07:14,780 --> 00:07:17,790
+Ja, ich sehe ihn immer wieder, auch in der Hauptverwaltung.
+
+93
+00:07:17,790 --> 00:07:21,790
+Er hat es weit nach oben gebracht und jetzt verantwortlich für den Blumenmordfall.
+
+94
+00:07:21,790 --> 00:07:23,790
+Davon muss ich nichts hören!
+
+95
+00:07:23,790 --> 00:07:26,800
+Du scheinst nicht begeistert zu sein, dass Fukazawa bisher nicht mit dir in Verbindung getreten ist.
+
+96
+00:07:26,800 --> 00:07:29,800
+Du machst Scherze, von diesem herzlosen Burschen zu hören!
+
+97
+00:07:32,800 --> 00:07:35,800
+Ich hoffe, dass es Sakuragi ebenfalls gut geht.
+
+98
+00:07:40,810 --> 00:07:45,810
+Unsere zuständigen Ermittler müssen eins mit der Erde sein!
+
+99
+00:07:45,810 --> 00:07:49,820
+Vergessen Sie neben der Körperkraft nicht auch die seelische Kraft zu trainieren!
+
+100
+00:07:49,820 --> 00:07:53,820
+- Jawohl!
+- Beginnen Sie mit dem Randori (freie Übung)!
+
+101
+00:07:53,820 --> 00:07:55,820
+Ich bin bereit!
+
+102
+00:07:58,830 --> 00:08:01,760
+Aua ...
+
+103
+00:08:01,760 --> 00:08:03,770
+Noch einmal!
+
+104
+00:08:03,770 --> 00:08:07,770
+Entschuldigung, ich komme nicht hoch.
+
+105
+00:08:07,770 --> 00:08:09,770
+Bist du echt in der ersten Abteilung?
+
+106
+00:08:14,780 --> 00:08:17,780
+Eine aktive Unternehmung? Das war die Äußerung von Sakuragi?
+
+107
+00:08:17,780 --> 00:08:20,780
+Genau, als sie mit mir neulich telefonierte.
+
+108
+00:08:20,780 --> 00:08:22,780
+Das genaue Gegenteil hörte ich von einem dort zuständigen Bekannten.
+
+109
+00:08:22,780 --> 00:08:24,790
+Er meinte, dass sie gar keinen Fortschritt macht.
+
+110
+00:08:24,790 --> 00:08:28,790
+Nun, so lange es ihr dort gefällt ...
+
+111
+00:08:28,790 --> 00:08:35,790
+Abteilungsleiter, ich frage mich schon länger, warum hast du Fukazawa und Sakuragi versetzen lassen?
+
+112
+00:08:35,800 --> 00:08:39,800
+Ich habe zu Ohren bekommen, dass die Empfehlung von dir war.
+
+113
+00:08:39,800 --> 00:08:42,800
+Meiner Meinung nach ist es für sie eine gute Gelegenheit.
+
+114
+00:08:42,800 --> 00:08:44,810
+Eine gute Gelegenheit?
+
+115
+00:08:44,810 --> 00:08:47,810
+Mach dir um die beiden keine Sorgen. Konzentriere dich auf die Sonderabteilung.
+
+116
+00:08:47,810 --> 00:08:49,810
+Ich vertraue dir.
+
+117
+00:08:49,810 --> 00:08:53,820
+Danke! Entschuldige mich!
+
+118
+00:08:53,820 --> 00:08:55,820
+- Ach, Kurata.
+- Ja?
+
+119
+00:08:55,820 --> 00:08:57,820
+Ich habe etwas für dich.
+
+120
+00:08:59,820 --> 00:09:01,760
+Das kann nicht wahr sein, das Siegel ist beschädigt!
+
+121
+00:09:01,760 --> 00:09:06,760
+Ich habe aber nicht geraucht und werde versuchen das Rauchen weiterhin seinzulassen.
+
+122
+00:09:06,760 --> 00:09:09,760
+Wegen dir habe ich die Schwierigkeiten mit dem Rauchen.
+
+123
+00:09:09,760 --> 00:09:14,770
+Da fällt mir gerade ein, es soll anscheinend demnächst eine große Personalveränderung geben?
+
+124
+00:09:14,770 --> 00:09:19,770
+Ah, ich habe mich entschieden, dass es nötig ist unsere Organisation der Zeit anpassen.
+
+125
+00:09:21,780 --> 00:09:26,780
+Nagashima. Ach, lange Zeit nichts mehr gehört, Fukazawa.
+
+126
+00:09:28,780 --> 00:09:32,790
+Alles klar. Wir werden gleich dort sein.
+
+127
+00:09:32,790 --> 00:09:34,790
+Aua, das schmerzt ...
+
+128
+00:09:34,790 --> 00:09:37,790
+Der gestrige, durch Brandstiftung verübte Mord wird uns bestimmt einige Schwierigkeiten bereiten.
+
+129
+00:09:37,790 --> 00:09:41,800
+Das Kriminaluntersuchungsamt 1 wir auch langsam eintrudeln.
+
+130
+00:09:41,800 --> 00:09:43,800
+- Ihr beeilt euch auch besser.
+- Gut.
+
+131
+00:09:46,800 --> 00:09:48,800
+Ein schwieriger Fall?
+
+132
+00:09:48,800 --> 00:09:51,810
+Hallo, Sakuragi!
+
+133
+00:09:51,810 --> 00:09:53,810
+Tsukamoto-san?
+
+134
+00:09:53,810 --> 00:09:55,810
+Ah, Vorsteher Kurata!
+
+135
+00:09:55,810 --> 00:09:58,810
+- Ah, Takamine-san und Shiraishi-san!
+- Dir scheint es gutzugehen, Sakuragi.
+
+136
+00:09:58,810 --> 00:10:02,820
+Nun? Warum? Wieso nur?
+
+137
+00:10:02,820 --> 00:10:05,820
+Warum redest du so idiotisch daher?
+
+138
+00:10:05,820 --> 00:10:07,820
+Hast du nichts mitbekommen?
+
+139
+00:10:07,820 --> 00:10:09,820
+Nein.
+
+140
+00:10:09,820 --> 00:10:12,830
+Bei dem gestrigen Mord durch Brandstiftung wurde das gleiche Geschoss wie beim Hachiôji-Fall verwendet.
+
+141
+00:10:12,830 --> 00:10:14,830
+Die Projektilspuren stimmen überein.
+
+142
+00:10:14,830 --> 00:10:16,830
+Zwischen den beiden Fällen besteht möglicherweise ein Zusammenhang.
+
+143
+00:10:16,830 --> 00:10:19,830
+Eine Verbindung zum Hachiôji-Fall ...
+
+144
+00:10:19,830 --> 00:10:21,830
+Hier entlang.
+
+145
+00:10:24,840 --> 00:10:26,840
+Selbst Fukazawa-san?
+
+146
+00:10:31,850 --> 00:10:33,850
+Ich bin Direktor Iwanami.
+
+147
+00:10:33,850 --> 00:10:38,850
+Die Leitung der Untersuchung wird für diesen Fall Fukazawa übernehmen.
+
+148
+00:10:38,850 --> 00:10:40,850
+Ich zähle auf Sie.
+
+149
+00:10:43,860 --> 00:10:45,860
+Das scheint seine erste Leitung einer Untersuchung zu sein.
+
+150
+00:10:45,860 --> 00:10:47,860
+Dafür haben sie sich diesen Jungen ausgewählt?
+
+151
+00:10:47,860 --> 00:10:51,870
+Ich bin Fukazawa vom Untersuchungsamt 1, Morduntersuchung, Amt 8.
+
+152
+00:10:51,870 --> 00:10:56,870
+Sie haben möglicherweise Bedenken mit mir, trotzdem freue ich mich auf die Zusammenarbeit.
+
+153
+00:10:58,870 --> 00:11:00,890
+Er hat sich kein bisschen geändert.
+
+154
+00:11:00,890 --> 00:11:02,810
+Es sieht glücklich aus.
+
+155
+00:11:02,810 --> 00:11:06,810
+Schmarrn, er sieht wie immer gereizt aus.
+
+156
+00:11:06,810 --> 00:11:10,820
+Ich heiße Kurata und bin vom Untersuchungsamt 1, Sonderabteilung für Kriminaluntersuchung und -prävention, Amt 4.
+
+157
+00:11:10,820 --> 00:11:16,820
+Im aktuellen Fall und dem Frauenmord von 1997 an einem nahegelegenen Hachiôji-Wohnblock stellten wir Gemeinsamkeiten fest.
+
+158
+00:11:16,820 --> 00:11:18,830
+Wir werden die Untersuchungen zusammen führen. Vielen Dank!
+
+159
+00:11:18,830 --> 00:11:21,830
+Gut, hier eine Zusammenfassung zum Mord durch Brandstiftung.
+
+160
+00:11:21,830 --> 00:11:24,830
+Der Tatort war in Asahidai, Hachiôji-shi in der Gynäkologischen Klinik von Bandô.
+
+161
+00:11:24,830 --> 00:11:26,830
+Eine Leiche wurde im niedergebrannten Büro des Direktors gefunden.
+
+162
+00:11:26,830 --> 00:11:29,840
+Es wurden die Leichen zweier männlichen Personen gefunden.
+
+163
+00:11:29,840 --> 00:11:31,840
+Die Identität einer Leiche ist noch unbekannt.
+
+164
+00:11:31,840 --> 00:11:37,850
+Die Tatortbesichtigung und die Autopsie haben ergeben, dass geschossen wurde und anschließend Feuer ausbrach.
+
+165
+00:11:37,850 --> 00:11:40,850
+Direktor Bandô von der Gynäkologischen Klinik war die andere Person.
+
+166
+00:11:40,850 --> 00:11:42,850
+Bandô Ryôhei, 56 Jahre alt.
+
+167
+00:11:42,850 --> 00:11:45,850
+Er wurde in einem anderen Zimmer gefunden und starb laut Obduktion an einer Kohlenmonoxidvergiftung.
+
+168
+00:11:45,850 --> 00:11:48,860
+Dann war er im Zimmer also eingesperrt.
+
+169
+00:11:48,860 --> 00:11:50,860
+Der Aktenschrank versperrte ihm den Weg.
+
+170
+00:11:50,860 --> 00:11:53,860
+Warum wurde Bandô nicht erschossen sondern eingesperrt?
+
+171
+00:11:53,860 --> 00:11:56,860
+Nun, das wüsste ich auch gerne.
+
+172
+00:11:56,860 --> 00:11:58,870
+Hallo, du bist dort zuständig. Was willst du hier?
+
+173
+00:11:58,870 --> 00:12:01,800
+Wieso bist du so abweisend zu mir? Wir haben uns nach so langer Zeit eben wieder getroffen.
+
+174
+00:12:01,800 --> 00:12:06,810
+Wir werden uns auf das Motiv konzentrieren und herausfinden wer das andere Opfer ist.
+
+175
+00:12:06,810 --> 00:12:12,810
+Ich möchte, dass meine Abteilung sich an die Arbeit macht und die Identität des Opfers feststellt.
+
+176
+00:12:12,810 --> 00:12:16,820
+Und die Sonderabteilung möchte ich bitten, die Verbindung zum Hachiôji-Fall der beiden festzustellen, falls es denn eine gibt.
+
+177
+00:12:16,820 --> 00:12:20,820
+- Das ist alles.
+- Jawohl.
+
+178
+00:12:20,820 --> 00:12:23,830
+Shiraishi-san, jetzt können wir wieder zusammen ermitteln.
+
+179
+00:12:23,830 --> 00:12:25,830
+Ich werde wirklich alles geben!
+
+180
+00:12:25,830 --> 00:12:28,830
+- Du kannst nicht einfach ermitteln.
+- Was soll das heißen, Shiraishi-san?
+
+181
+00:12:28,830 --> 00:12:30,830
+Vor einem halben Jahr war ich doch in der Sonderabteilung!
+
+182
+00:12:30,830 --> 00:12:32,830
+Bei den ungeklärten Fällen kann uns keiner etwas vormachen.
+
+183
+00:12:32,830 --> 00:12:34,840
+Aber dein Name steht nicht in der Aufstellung.
+
+184
+00:12:34,840 --> 00:12:36,840
+Was?
+
+185
+00:12:39,840 --> 00:12:41,840
+Das gibt's nicht!
+
+186
+00:12:43,850 --> 00:12:47,850
+Vorsteher? Vorsteher!
+
+187
+00:12:47,850 --> 00:12:50,850
+Warum darf ich bei den Untersuchungen nicht mitwirken?
+
+188
+00:12:50,850 --> 00:12:54,860
+Es sind schon zu viele. Die Zuständigkeiten wurden noch nicht vollständig geklärt.
+
+189
+00:12:54,860 --> 00:12:58,860
+Wir brauchen dich momentan nicht. Verzichte bitte.
+
+190
+00:12:58,860 --> 00:13:00,880
+Das sagen Sie immer!
+
+191
+00:13:00,880 --> 00:13:03,800
+Ich erledige immer den Kleinkram, jetzt ist es mal soweit etwas Richtiges zu tun?
+
+192
+00:13:03,800 --> 00:13:07,800
+Du musst die Ermittlungsunterlagen kopieren und die Ausrüstung vorbereiten!
+
+193
+00:13:09,800 --> 00:13:11,810
+Du hast doch die Schreibtischarbeit zu erledigen, Sakuragi-san?
+
+194
+00:13:11,810 --> 00:13:13,810
+- Vielen Dank für deine Mühe!
+- Ah ...
+
+195
+00:13:13,810 --> 00:13:15,810
+Das sind die Untersuchungsakten von der Sonderabteilung zum Hachiôji-Fall.
+
+196
+00:13:15,810 --> 00:13:17,810
+Wir haben darauf gewartet, dass du sie abholen kommst.
+
+197
+00:13:17,810 --> 00:13:19,810
+Also, vielen Dank!
+
+198
+00:13:26,700 --> 00:13:29,700
+Shadows and lights in the morning
+
+199
+00:13:29,700 --> 00:13:33,200
+Sono owarenai boku no behind
+
+200
+00:13:33,200 --> 00:13:36,700
+Mata nuguenai hibi no behind
+
+201
+00:13:36,700 --> 00:13:42,200
+"Zettai reido: mikaiketsu jiken tokumei sôsa: special"
+
+202
+00:13:42,200 --> 00:13:52,700
+Diese Sendung wird Ihnen von Kao, Sekisui House und den hier verzeichneten Sponsoren präsentiert.
+
+203
+00:14:00,210 --> 00:14:02,210
+Der Anzug passt nicht zu dir.
+
+204
+00:14:02,210 --> 00:14:08,220
+Du bist zwar nicht mein Vorgesetzter, aber ich freue mich mit dir zu arbeiten.
+
+205
+00:14:08,220 --> 00:14:10,220
+Entschuldigung, dass Sie warten mussten, Direktor. Wir können gehen.
+
+206
+00:14:10,220 --> 00:14:12,220
+Gut.
+
+207
+00:14:12,220 --> 00:14:14,220
+Was für ein Benehmen!
+
+208
+00:14:16,230 --> 00:14:18,230
+Fukazawa steht vermutlich unter Stress.
+
+209
+00:14:18,230 --> 00:14:20,230
+Hm?
+
+210
+00:14:20,230 --> 00:14:22,230
+Während der Besprechung spielte er immer an seiner Krawatte.
+
+211
+00:14:22,230 --> 00:14:25,240
+Als Leiter trägt eine hohe Verantwortung für diesen Fall.
+
+212
+00:14:25,240 --> 00:14:28,240
+Ich glaube nicht, dass er zuvor schon einen Anzug getragen hat.
+
+213
+00:14:28,240 --> 00:14:31,240
+Doch ich kann verstehen, wie ihm zumute sein muss.
+
+214
+00:14:35,250 --> 00:14:39,250
+Wahnsinn, was Shiraishi-san alles zusammengeschrieben hat.
+
+215
+00:14:39,250 --> 00:14:42,250
+Es sind 14 Jahre.
+
+216
+00:14:48,260 --> 00:14:50,260
+Ich blicke wehmütig darauf zurück.
+
+217
+00:14:50,260 --> 00:14:54,270
+Mit Shiraishi-san habe ich sie oft durchgearbeitet.
+
+218
+00:14:54,270 --> 00:15:00,210
+Der Hachiôji-Zwischenfall ereignente sich am 20. Mai 1997.
+
+219
+00:15:00,210 --> 00:15:04,210
+Das Opfer war eine nicht zu identifizierende Frau Anfang 20.
+
+220
+00:15:06,210 --> 00:15:08,210
+Das ist sie.
+
+221
+00:15:08,210 --> 00:15:12,220
+Ihre Leiche wurde am Morgen des 21. entdeckt.
+
+222
+00:15:12,220 --> 00:15:17,220
+Sie lag in einer Mülltonne in Kitafunechô, Hachiôji-shi bei einem Wohnblock.
+
+223
+00:15:17,220 --> 00:15:20,230
+Die Tatwaffe war eine Pistole.
+
+224
+00:15:20,230 --> 00:15:24,230
+Ermordet und dann weggeworfen zu werden ist einfach grausam.
+
+225
+00:15:26,230 --> 00:15:32,240
+Shiraishi-san hat ein halbes Jahr damit verbracht ihre Identität herauszufinden.
+
+226
+00:15:32,240 --> 00:15:38,240
+Chan Jolin, 22 Jahre alt. Chinesin, illegal im Land und Angehörige eines Prostitutionsringes.
+
+227
+00:15:38,240 --> 00:15:42,250
+Die Autopsie von Jolin ergab, dass ihre Niere entfernt wurde.
+
+228
+00:15:42,250 --> 00:15:44,250
+Doch es gab kein Anzeichen, dass sie krank war.
+
+229
+00:15:44,250 --> 00:15:46,250
+Ist das nicht sonderbar?
+
+230
+00:15:46,250 --> 00:15:48,250
+Das war kein gewöhnlicher Mord.
+
+231
+00:15:48,250 --> 00:15:53,260
+Wir haben uns die Ärzte auf dem Schwarzmarkt vorgenommen, konnten aber nichts Stichhaltiges finden.
+
+232
+00:15:53,260 --> 00:15:56,260
+Die Obduktion muss doch Anzeichen einer Geburt gefunden haben?
+
+233
+00:15:56,260 --> 00:16:00,200
+Genau, laut ihrer Mitbewohnerin soll sie eine Totgeburt gehabt haben.
+
+234
+00:16:00,200 --> 00:16:03,200
+Der Vater ist bisher nicht bekannt.
+
+235
+00:16:03,200 --> 00:16:07,210
+Erst die Organe und dann verliert sie noch ihr Kind. Die arme Frau.
+
+236
+00:16:07,210 --> 00:16:09,210
+Das wird eine knifflige Untersuchung werden.
+
+237
+00:16:09,210 --> 00:16:12,210
+Illegale Einwanderer machen die Sache auch nicht einfacher.
+
+238
+00:16:12,210 --> 00:16:14,210
+Und abgesehen davon ist es inzwischen 14 Jahre her.
+
+239
+00:16:14,210 --> 00:16:17,220
+Als ob man Gespenst sucht.
+
+240
+00:16:17,220 --> 00:16:19,220
+Ein Gespenst ...
+
+241
+00:16:52,250 --> 00:16:55,250
+Was ist mit der Identität der verkohlten Leiche? Schon irgendwelche Erkenntnisse?
+
+242
+00:16:55,250 --> 00:16:58,190
+Dafür ist unser Vorgesetzter extra hergekommen?
+
+243
+00:16:58,190 --> 00:17:00,190
+Ich bin kein großer Freund von Begrüßungen.
+
+244
+00:17:00,190 --> 00:17:03,190
+- Ist klar.
+- Was ist mit ihr?
+
+245
+00:17:03,190 --> 00:17:09,200
+Wegen Sakuragi. Seit dem sie weiß, dass das Revier Hachiôji-Süd und eures zusammenarbeitet, freut sie sich auf das Wiedersehen.
+
+246
+00:17:09,200 --> 00:17:13,200
+Da wartest du vergebens, Ômori. Sakuragi wird nicht kommen.
+
+247
+00:17:13,200 --> 00:17:15,210
+Seit einem halben Jahr drückt sie sich.
+
+248
+00:17:15,210 --> 00:17:18,210
+Du willst sie doch nicht quälen. Ich leide mit Sakuragi.
+
+249
+00:17:18,210 --> 00:17:20,210
+Wie viel Zeit wird die Feststellung noch in Anspruch nehmen?
+
+250
+00:17:20,210 --> 00:17:22,210
+Zehn Sekunden oder mehr.
+
+251
+00:17:22,210 --> 00:17:24,220
+Das ist eine ganz schöne Arbeit den Führerschein zu überprüfen.
+
+252
+00:17:24,220 --> 00:17:26,220
+Den Führerschein? Ist er nicht verbrannt?
+
+253
+00:17:26,220 --> 00:17:29,220
+Seit Jahren ist ein integrierter Schaltkreis mitverbaut.
+
+254
+00:17:29,220 --> 00:17:33,220
+Also, wenn der Chip das überstanden hat ...
+
+255
+00:17:33,220 --> 00:17:36,230
+Nun, da haben wir es.
+
+256
+00:17:36,230 --> 00:17:38,230
+- Ist er es auch ohne Zweifel?
+- Die zahnärztliche Unterlagen stimmen auch überein.
+
+257
+00:17:38,230 --> 00:17:41,230
+Ganz sicher.
+
+258
+00:17:41,230 --> 00:17:44,240
+Nozawa Seiji.
+
+259
+00:18:28,230 --> 00:18:30,230
+Was?
+
+260
+00:18:32,240 --> 00:18:35,240
+- Was?
+- Ich habe dich im Spiegel gesehen.
+
+261
+00:18:35,240 --> 00:18:37,240
+Im Spiegel?
+
+262
+00:18:37,240 --> 00:18:40,240
+Du schaffst es wirklich nicht jemanden zu beschatten.
+
+263
+00:18:40,240 --> 00:18:43,250
+Entschuldigung! Ich will nur bei der Untersuchung behilflich sein.
+
+264
+00:18:43,250 --> 00:18:46,250
+Du hast die Verantwortung im Büro. Verschwinde!
+
+265
+00:18:50,250 --> 00:18:56,190
+Äh, bis jetzt haben wir noch keinen Hinweis, was Nozawa und Bandô im Hachiôji-Fall verbindet, nicht wahr?
+
+266
+00:18:58,200 --> 00:19:00,200
+Ich werde alles durcharbeiten.
+
+267
+00:19:00,200 --> 00:19:05,200
+Deine seit 14 Jahren gesammelten Akten sind ein ganz schöner Stapel.
+
+268
+00:19:05,200 --> 00:19:08,200
+Ah, das riecht aber gut.
+
+269
+00:19:19,220 --> 00:19:22,220
+Wie ich mir schon dachte, du bist es. Ich konnte den Taiyaki (fischförmiges Gebäck) riechen.
+
+270
+00:19:22,220 --> 00:19:26,220
+Lang nicht mehr gesehen, Motoki. Bitte!
+
+271
+00:19:26,220 --> 00:19:29,220
+Motoki? Ist Jolin eventuell ...
+
+272
+00:19:31,230 --> 00:19:33,230
+Wer ist das Mädchen?
+
+273
+00:19:33,230 --> 00:19:38,240
+Mädchen? Ich bin eine Kriminalbeamtin vom Revier Hachiôji-Süd.
+
+274
+00:19:38,240 --> 00:19:42,240
+Ich will keine Ausreden hören! Besorge mir den Alkohol!
+
+275
+00:19:42,240 --> 00:19:44,240
+Nun? Hast du verstanden, Mistkerl?
+
+276
+00:19:44,240 --> 00:19:46,240
+Jolin.
+
+277
+00:19:46,240 --> 00:19:49,250
+- Du schon wieder!
+- Ich werde die Polizei rufen!
+
+278
+00:19:49,250 --> 00:19:53,220
+Verzieh dich! Du hälst dich hier illegal auf und wirst nicht die Polizei verständigen!
+
+279
+00:19:53,220 --> 00:19:55,090
+- Eben schon!
+- Lass das!
+
+280
+00:19:55,090 --> 00:19:57,090
+Sie werde dich sonst verhaften.
+
+281
+00:20:00,090 --> 00:20:03,090
+Ach, darf ich mir auch einen nehmen? Ah ...
+
+282
+00:20:05,100 --> 00:20:08,100
+- Die waren ausgezeichnet.
+- Alles verputzt ...
+
+283
+00:20:08,100 --> 00:20:10,100
+Früher hast du doch alle Süßigkeiten verschmäht.
+
+284
+00:20:10,100 --> 00:20:12,100
+Ich habe dich vollkommen umerzogen.
+
+285
+00:20:12,100 --> 00:20:15,110
+Bitte? Als ich dich getroffen habe, hast du sie gegessen.
+
+286
+00:20:15,110 --> 00:20:18,110
+Wie üblich eine große Klappe.
+
+287
+00:20:18,110 --> 00:20:20,110
+Du solltest mir dankbar sein.
+
+288
+00:20:20,110 --> 00:20:23,110
+Wenn ich damals nicht gewesen wäre, hättest du Jolins Namen nie herausgefunden.
+
+289
+00:20:23,110 --> 00:20:28,120
+Wenn nur du ursprünglich gewesen wärst, hätte ich mehr Glück gehabt.
+
+290
+00:20:28,120 --> 00:20:33,120
+Ich bin derjenige, der kein Glück hat, ich habe 14 Jahre gebraucht dich zu treffen.
+
+291
+00:20:33,120 --> 00:20:38,130
+Hast du das Grab besucht? Der Todestag deines Vaters war letzte Woche.
+
+292
+00:20:38,130 --> 00:20:43,130
+Ich konnte es nicht. Dieser Trunkenbold.
+
+293
+00:20:43,130 --> 00:20:47,140
+Für Jolin bin ich übrigens mehr dankbar.
+
+294
+00:20:49,140 --> 00:20:54,140
+Ach, entschuldigt mich.
+
+295
+00:20:54,140 --> 00:20:56,180
+Ja.
+
+296
+00:20:56,180 --> 00:20:58,180
+"Sakuragi, wo steckst du?"
+
+297
+00:20:58,180 --> 00:21:01,190
+Tut mir Leid, Vorsteher. Ich mache Besorgungen.
+
+298
+00:21:01,190 --> 00:21:05,190
+- "Also, wo steckst du?"
+- Ich bin schon unterwegs.
+
+299
+00:21:05,190 --> 00:21:08,190
+"Hä? Heh, wo bist du?"
+
+300
+00:21:08,190 --> 00:21:12,190
+Erinnerst du dich an die Kerle?
+
+301
+00:21:16,200 --> 00:21:18,200
+Du weißt wer die sind?
+
+302
+00:21:20,200 --> 00:21:24,210
+Vielleicht bilde ich mir das auch nur ein. Möglicherweise damals.
+
+303
+00:21:24,210 --> 00:21:28,210
+Vielleicht erinnerst du dich richtig. Denke scharf nach!
+
+304
+00:21:33,220 --> 00:21:37,220
+Der hier war mit Tachibana zusammen.
+
+305
+00:21:37,220 --> 00:21:39,220
+Tachibana?
+
+306
+00:21:39,220 --> 00:21:42,220
+Der auch bei Jolins Prostitutionsring mitmischte?
+
+307
+00:21:47,230 --> 00:21:50,230
+Dein Vater ist krank und du schickst zu ihm also das Geld.
+
+308
+00:21:53,220 --> 00:21:59,180
+Motoki, ich werde bald an viel Geld kommen.
+
+309
+00:21:59,180 --> 00:22:03,180
+Dann werde ich nach China zurückgehen. Willst du mitkommen?
+
+310
+00:22:03,180 --> 00:22:07,180
+Geld? Du stellst doch nichts Dummes an?
+
+311
+00:22:21,200 --> 00:22:24,200
+Komm mit!
+
+312
+00:22:24,200 --> 00:22:30,210
+Tachibana. Du wirst unseren Gast doch gut behandeln?
+
+313
+00:22:30,210 --> 00:22:32,210
+Wenn es eine seltsame Krankheit gibt, sind wir aufgeschmissen.
+
+314
+00:22:32,210 --> 00:22:36,210
+Natürlich, das ist lukrativer als Prostitution.
+
+315
+00:22:38,220 --> 00:22:40,220
+Tachibana!
+
+316
+00:22:51,230 --> 00:22:53,160
+Was soll das? Ich habe nichts getan!
+
+317
+00:22:53,160 --> 00:22:56,170
+Warum rennen Sie dann weg? Haben sie ein schlechtes Gewissen?
+
+318
+00:22:56,170 --> 00:22:58,170
+Es was bloß ein Fahrrad! Im betrunken Zustand habe ich es vorgestern geklaut.
+
+319
+00:22:58,170 --> 00:23:02,170
+Jetzt ist es aber genug!
+
+320
+00:23:02,170 --> 00:23:04,180
+Sie kennen doch Chan Jolin?
+
+321
+00:23:04,180 --> 00:23:06,180
+- Wer ist Chan?
+- Jetzt aber Klartext!
+
+322
+00:23:06,180 --> 00:23:11,180
+Bandô Ryôhei und Sie hatten etwas am Laufen, etwas Lukrativeres als Prostitution?
+
+323
+00:23:11,180 --> 00:23:13,180
+Dann ist etwas geschehen und sie wurde ermordet.
+
+324
+00:23:13,180 --> 00:23:16,190
+Das ist der Grund? Ich wurde vor Jahren freigesprochen.
+
+325
+00:23:16,190 --> 00:23:18,190
+Heute arbeite ich in einer Bar.
+
+326
+00:23:18,190 --> 00:23:23,190
+Heh, Takamine, du solltest vielleicht seinen Seelenzustand analysieren.
+
+327
+00:23:23,190 --> 00:23:25,200
+Wir werden wegen Behinderung dienstlich eingreifen. Wir sollten ihn für ein Verhör mitnehmen.
+
+328
+00:23:25,200 --> 00:23:29,200
+- Sie machen Scherze!
+- Sie üben Gewalt aus.
+
+329
+00:23:29,200 --> 00:23:32,200
+Sie könnten sich bei der Untersuchung einige Verletzungen zuziehen.
+
+330
+00:23:32,200 --> 00:23:34,210
+- Heh, was redest du da?
+- Hast du das nicht bemerkt?
+
+331
+00:23:34,210 --> 00:23:38,210
+Eine Rippe ist eben gebrochen. Die Heilung dauert einen Monat.
+
+332
+00:23:38,210 --> 00:23:40,210
+Sie verfügen sicher über genug Kalzium?
+
+333
+00:23:40,210 --> 00:23:43,210
+Lassen Sie das! Ich habe nur ein paar Leute die Mädchen empfohlen!
+
+334
+00:23:43,210 --> 00:23:46,220
+Du solltest seinen Zustand analysieren.
+
+335
+00:23:46,220 --> 00:23:49,220
+Das wird nicht nötig sein. Rede!
+
+336
+00:23:49,220 --> 00:23:52,220
+Doktor Bandô wollte anfangs nur ein paar Mädchen ärztlich untersuchen.
+
+337
+00:23:52,220 --> 00:23:54,160
+Daher also der Auftrag sie vorzustellen?
+
+338
+00:23:54,160 --> 00:23:57,160
+Heh, welcher Job war besser als Prostitution?
+
+339
+00:23:57,160 --> 00:23:59,160
+Es reicht! Was haben Sie mit Jolin angestellt?
+
+340
+00:23:59,160 --> 00:24:02,170
+Das hat er nie gesagt, ehrlich!
+
+341
+00:24:02,170 --> 00:24:04,170
+Doch ich weiß vom Hörensagen, dass er mit Organen gehandelt haben soll.
+
+342
+00:24:04,170 --> 00:24:07,170
+Die Polizei müsste es damals gewusst haben!
+
+343
+00:24:07,170 --> 00:24:10,170
+- Organhandel?
+- Ja.
+
+344
+00:24:10,170 --> 00:24:13,170
+Jolin fehlte eine Niere.
+
+345
+00:24:18,240 --> 00:24:20,240
+Das konnten wir aus Nozawa Seijis Wohnung sicherstellen.
+
+346
+00:24:20,240 --> 00:24:24,250
+Zusammen mit denen von Bandô. Ordne die Akten.
+
+347
+00:24:24,250 --> 00:24:27,250
+- Verstanden.
+- Gut.
+
+348
+00:24:31,250 --> 00:24:36,260
+Bandô war vor 20 Jahren ein Chirurg am Asahi-Universitätsklinikum.
+
+349
+00:24:36,260 --> 00:24:40,260
+In den Vereinigten Staaten führte er eine Transplantation an einem hirntoten Patienten durch.
+
+350
+00:24:40,260 --> 00:24:44,260
+Er kehrte nach Japan zurück und wagte ebenfalls die Operation.
+
+351
+00:24:44,260 --> 00:24:47,270
+Damals waren diese Eingriffe an hirntoten Patienten in Japan rechtswidrig
+
+352
+00:24:47,270 --> 00:24:49,270
+Richtig.
+
+353
+00:24:49,270 --> 00:24:52,270
+Aber ein halbes Jahr später eröffnete er seine Obstetrik und Gynäkologie.
+
+354
+00:24:52,270 --> 00:24:59,280
+Unsere Untersuchungen ergaben, dass viele seiner Patienten Ausländer aus dem asiatischen Raum waren.
+
+355
+00:24:59,280 --> 00:25:03,280
+Dann muss er die hier illegal aufhaltenden Person für den Organhandel benutzt haben.
+
+356
+00:25:03,280 --> 00:25:06,290
+Jolin musste vielleicht sterben, weil sie Schwierigkeiten bereitete.
+
+357
+00:25:06,290 --> 00:25:10,290
+Womöglich war Nozawa auch verwickelt und starb deshalb durch die Brandstiftung.
+
+358
+00:25:10,290 --> 00:25:13,290
+Wir haben etwas Interessant gefunden.
+
+359
+00:25:13,290 --> 00:25:15,300
+Bandô war mit dem Abgeordneten Mihara Atsuo verstrickt.
+
+360
+00:25:15,300 --> 00:25:20,230
+Mihara Atsuo? Der amtierende Minister für Gesundheit und Arbeit?
+
+361
+00:25:20,230 --> 00:25:24,240
+Bandô wurde vor drei Jahren vorsitzender eines Fördervereines von Mihara.
+
+362
+00:25:24,240 --> 00:25:31,250
+Vor 14 Jahren versuchte Atsuo - Gerüchten zufolge - zudem auch einen Spender für eine Nierentransplantation zu finden.
+
+363
+00:25:31,250 --> 00:25:36,250
+Ich möchte gerne, dass Sie mich bei der nächsten Wahl unterstützen.
+
+364
+00:25:36,250 --> 00:25:38,250
+Selbstverständlich.
+
+365
+00:25:38,250 --> 00:25:41,260
+Ich kann nachvollziehen, wie wichtig Ihnen die Transplantation ist.
+
+366
+00:25:41,260 --> 00:25:44,260
+Bei mir hat es einen bleibenden Eindruck hinterlassen.
+
+367
+00:25:44,260 --> 00:25:47,260
+Ein Minister hat mit Organhandel zu tun?
+
+368
+00:25:47,260 --> 00:25:51,260
+Es besteht die Möglichkeit. Es geht hier um einen Minister. Was meinst du dazu?
+
+369
+00:25:55,270 --> 00:25:58,270
+Es ist Umsicht geboten. Ich werde mich darum kümmern.
+
+370
+00:25:58,270 --> 00:26:01,280
+- Das Ministerium für Gesundheit, Arbeit und Wohlfahrt?
+- Ich bin besorgt.
+
+371
+00:26:01,280 --> 00:26:04,280
+Es ist keine delikate Angelegenheit. Wir haben den richtigen Verantwortlichen.
+
+372
+00:26:09,280 --> 00:26:12,290
+Wir kennen jetzt die Verbindung von Nozawa und Bandô.
+
+373
+00:26:12,290 --> 00:26:15,290
+Vor 14 Jahren wurde Nozawas Tochter in Bandôs Klinik geboren.
+
+374
+00:26:15,290 --> 00:26:17,220
+Die Kopie zur Anmeldung der Geburt.
+
+375
+00:26:17,220 --> 00:26:21,230
+Aber sagte Nozawas Frau in der Voruntersuchung nicht aus, dass sie nichts von Bandô wusste?
+
+376
+00:26:21,230 --> 00:26:26,230
+Falls Nozawa mit dem Organhandel zu schaffen hatte, könnte er auch etwas versucht haben zu verheimlichen.
+
+377
+00:26:26,230 --> 00:26:29,240
+Takamine-san, begib dich bitte morgen in das Krankenhaus.
+
+378
+00:26:29,240 --> 00:26:31,240
+Du als weibliche Ermittlerin wirst vielleicht fündig.
+
+379
+00:26:31,240 --> 00:26:33,240
+- Verstanden.
+- Krankenhaus?
+
+380
+00:26:33,240 --> 00:26:36,240
+- Und?
+- Hast du nicht die Akten gelesen?
+
+381
+00:26:36,240 --> 00:26:39,250
+Die Tochter hat Leukämie.
+
+382
+00:26:39,250 --> 00:26:42,250
+Vorsteher Miyaji, können wir einen weiteren Ermittler aufnehmen?
+
+383
+00:26:42,250 --> 00:26:46,250
+Ich gebe mich geschlagen. Morgen haben wir schon alle im Außeneinsatz.
+
+384
+00:26:46,250 --> 00:26:49,250
+Wer ist noch übrig?
+
+385
+00:26:59,270 --> 00:27:02,270
+Nun, wie von Fukazawa zu erwarten war.
+
+386
+00:27:03,270 --> 00:27:05,270
+Er wusste, dass du hier gut klar kommst.
+
+387
+00:27:05,270 --> 00:27:07,270
+Du wurdest nur zufällig ausgewählt.
+
+388
+00:27:07,270 --> 00:27:09,280
+Keinesfalls!
+
+389
+00:27:09,280 --> 00:27:12,280
+Fukazawa-san wusste, dass er mich außerhalb einsetzen kann.
+
+390
+00:27:12,280 --> 00:27:18,220
+Fukazawa-san hat schon mehrfach gesagt, dass wir Kollegen sind, auch wenn wir unterschiedliche Meinungen vertreten.
+
+391
+00:27:18,220 --> 00:27:20,220
+Kollegen?
+
+392
+00:27:20,220 --> 00:27:22,220
+Du willst mich nicht verstehen.
+
+393
+00:27:22,220 --> 00:27:24,220
+Seit der Versetzung muss ich mich nur um den Kleinkram kümmern.
+
+394
+00:27:24,220 --> 00:27:26,230
+Ich bin nie vor Ort.
+
+395
+00:27:26,230 --> 00:27:30,230
+Ein Kriminaler, der nie am Tatort ist, ist das Gleiche wie o-Sushi ohne Wasabi (Meerrettich).
+
+396
+00:27:30,230 --> 00:27:33,230
+Oder gar o-Den (Konnyaku, Daikon, Ei in Brühe gekocht) ohne Karashi (Senf).
+
+397
+00:27:33,230 --> 00:27:37,240
+Kannst du mit dem sinnlosen Denken aufhören, wenn wir bei den Hinterbliebenen sind?
+
+398
+00:27:37,240 --> 00:27:39,240
+Was?
+
+399
+00:27:46,250 --> 00:27:48,250
+Nozawa Hideoko-san, richtig?
+
+400
+00:27:48,250 --> 00:27:50,250
+Ja.
+
+401
+00:27:50,250 --> 00:27:52,250
+Ich bin Takamine vom Kriminaluntersuchungsamt 1.
+
+402
+00:27:52,250 --> 00:27:56,260
+Wir haben Fragen zu Ihrem verstorbenen Mann.
+
+403
+00:27:56,260 --> 00:27:58,260
+Können wir das verschieben?
+
+404
+00:27:58,260 --> 00:28:00,260
+Uns wäre es am liebsten gleich.
+
+405
+00:28:00,260 --> 00:28:03,260
+Ich möchte bei meiner Tochter sein.
+
+406
+00:28:03,260 --> 00:28:05,270
+Im Krankenhaus sind ausreichend Krankenschwestern unterwegs.
+
+407
+00:28:05,270 --> 00:28:08,270
+Sie wird ihr Gesellschaft leisten. Keine Bange.
+
+408
+00:28:08,270 --> 00:28:10,270
+- Was?
+- In diese Richtung.
+
+409
+00:28:14,780 --> 00:28:16,780
+Und ich wollte ermitteln ...
+
+410
+00:28:30,400 --> 00:28:42,400
+Diese Sendung wurde Ihnen von Kao, Sekisui House und den hier verzeichneten Sponsoren präsentiert.
+
+411
+00:28:46,000 --> 00:28:50,000
+Das Krebsmedikament wird ihr heute verabreicht.
+
+412
+00:28:50,500 --> 00:28:54,510
+Meine Tochter ist darüber ebenfalls beunruhigt.
+
+413
+00:28:54,510 --> 00:28:58,510
+Ich wurde bisher auch nicht mit dem Tod meines Mannes fertig.
+
+414
+00:28:58,510 --> 00:29:02,510
+Das ist keine Unterhaltung, sondern eine polizeiliche Befragung.
+
+415
+00:29:04,520 --> 00:29:07,520
+Wenn ich in Ihrer Haut stecken würde, würde ich genauso empfinden.
+
+416
+00:29:07,520 --> 00:29:11,520
+Ich habe ebenfalls einen Mann und eine Tochter.
+
+417
+00:29:11,520 --> 00:29:13,520
+Ich versuche mich kurzzufassen.
+
+418
+00:29:13,520 --> 00:29:17,530
+Danke für Ihr Mitgefühl.
+
+419
+00:29:17,530 --> 00:29:22,530
+Ihre Tochter kam in der Klinik von Bandô zur Welt.
+
+420
+00:29:22,530 --> 00:29:27,540
+Warum haben Sie uns das gestern beim Polizeiverhör verschwiegen?
+
+421
+00:29:27,540 --> 00:29:30,540
+Es tut mir Leid! Ich bin noch von der Angelegenheit betroffen.
+
+422
+00:29:30,540 --> 00:29:32,540
+Ich wollte es nicht verschweigen.
+
+423
+00:29:32,540 --> 00:29:38,550
+Wir wissen, dass Doktor Bandô möglicherweise Organhandel betrieben hat.
+
+424
+00:29:38,550 --> 00:29:41,550
+Wir nehmen an, Ihr Mann war auch beteiligt.
+
+425
+00:29:41,550 --> 00:29:45,570
+Davon weiß ich nichts.
+
+426
+00:29:45,570 --> 00:29:51,490
+Seit Sakis Geburt hatte weder mein Mann noch ich Kontakt mit dem Arzt.
+
+427
+00:29:51,500 --> 00:29:58,500
+Wissen Sie warum in der Nacht des Vorfalles Ihr Mann in der Klinik war?
+
+428
+00:29:58,500 --> 00:30:02,510
+Ich weiß nicht, wieso mein Mann umgebracht wurde!
+
+429
+00:30:02,510 --> 00:30:06,510
+Inzwischen kommt er mir wie ein Fremder vor!
+
+430
+00:30:13,520 --> 00:30:18,520
+Wo ist meine Mama hingegangen? Hat sich in dem Fall etwas ergeben?
+
+431
+00:30:18,520 --> 00:30:21,530
+Nein, nicht wirklich.
+
+432
+00:30:21,530 --> 00:30:23,530
+Keine Sorge.
+
+433
+00:30:23,530 --> 00:30:26,530
+Keine Sorge? Ich liege hier.
+
+434
+00:30:26,530 --> 00:30:31,540
+Ah, erzählen Sie mir eine interessante Geschichte.
+
+435
+00:30:31,540 --> 00:30:38,540
+Hä? Das ist eine unerwartete Bitte.
+
+436
+00:30:38,540 --> 00:30:42,550
+Sie sind ein Narr, haben Sie das für ernst genommen? Sind Sie echt eine Kriminalbeamtin?
+
+437
+00:30:42,550 --> 00:30:46,480
+Mach dich nicht über Erwachsene lustig!
+
+438
+00:30:46,480 --> 00:30:50,490
+Gehen Sie zu meiner Mama. Sie sind mir im Weg.
+
+439
+00:30:50,490 --> 00:30:55,490
+Das kann ich nicht. Deine Mutter wollte, dass ich bei dir bin.
+
+440
+00:30:55,490 --> 00:30:58,500
+Sie macht sich Sorgen um dich.
+
+441
+00:30:58,500 --> 00:31:00,500
+Sorgen Sie sich nicht um mich.
+
+442
+00:31:02,500 --> 00:31:05,500
+Sie behandelt mich wie ein Geschwür.
+
+443
+00:31:05,500 --> 00:31:08,510
+So solltest du nicht reden.
+
+444
+00:31:08,510 --> 00:31:10,510
+Ich weiß, dass es schwer für dich sein muss.
+
+445
+00:31:10,510 --> 00:31:14,510
+Schwer? Das ist nicht das Problem.
+
+446
+00:31:14,510 --> 00:31:17,520
+Was?
+
+447
+00:31:17,520 --> 00:31:20,520
+Alles ist mir egal.
+
+448
+00:31:20,520 --> 00:31:25,520
+Mein Papa ist tot und ich bin krank.
+
+449
+00:31:25,520 --> 00:31:27,530
+Warum redest du so?
+
+450
+00:31:27,530 --> 00:31:30,530
+Das Leben hat keinen Sinn.
+
+451
+00:31:30,530 --> 00:31:32,530
+Das solltest du nicht sagen.
+
+452
+00:31:34,530 --> 00:31:36,530
+Sie verstehen gar nichts.
+
+453
+00:31:36,530 --> 00:31:39,540
+Was?
+
+454
+00:31:39,540 --> 00:31:42,540
+Sie heucheln das doch nur vor.
+
+455
+00:31:47,480 --> 00:31:49,480
+Du gehst wieder weg?
+
+456
+00:31:49,480 --> 00:31:51,480
+Wo willst du noch so spät hingehen?
+
+457
+00:31:51,480 --> 00:31:54,490
+Wie gesagt, die Arbeit wird immer umfangreicher.
+
+458
+00:31:54,490 --> 00:31:56,490
+Ist dir Saki gleichgültig?
+
+459
+00:31:56,490 --> 00:32:00,490
+Bitte, wir stehen es gemeinsam durch.
+
+460
+00:32:00,490 --> 00:32:02,490
+Verzeih mir.
+
+461
+00:32:02,490 --> 00:32:08,500
+Das ist grausam! Wir müssen positiv bleiben während es Saki schlechter geht.
+
+462
+00:32:08,500 --> 00:32:10,500
+Und du läufst davon!
+
+463
+00:32:16,510 --> 00:32:18,510
+Saki.
+
+464
+00:32:18,510 --> 00:32:20,510
+Wo willst du hin?
+
+465
+00:32:23,510 --> 00:32:25,510
+Papa!
+
+466
+00:32:29,900 --> 00:32:34,900
+Diese Sendung wird Ihnen von den hier verzeichneten Sponsoren präsentiert.
+
+467
+00:32:46,120 --> 00:32:50,130
+Ich weiß nichts von einem Organhandel.
+
+468
+00:32:50,130 --> 00:32:57,130
+Hatakeyama-san, Sie waren dort lange Krankenschwester und übernahmen die Buchhaltung über die letzten 14 Jahre.
+
+469
+00:32:57,130 --> 00:33:00,140
+Existiert wirklich kein schwarzes Kassenbuch?
+
+470
+00:33:00,140 --> 00:33:03,140
+Doktor Bandô ist kein solcher Arzt!
+
+471
+00:33:03,140 --> 00:33:08,140
+Ich kenne noch nicht mal den Grund für den Mord.
+
+472
+00:33:08,140 --> 00:33:10,150
+Sie sind ganz schön hartnäckig.
+
+473
+00:33:10,150 --> 00:33:15,150
+Ich kann verstehen, warum Doktor Bandô sein Vertrauen in Sie gesteckt hat.
+
+474
+00:33:15,150 --> 00:33:17,150
+Sind wir dann durch?
+
+475
+00:33:17,150 --> 00:33:21,160
+Ich habe eine Mutter im letzter Schwangerschaftsmonat und in ein anderes Klinikum verlegt wurde.
+
+476
+00:33:21,160 --> 00:33:24,160
+Eine schwierige Sache, ebenso für die Mütter.
+
+477
+00:33:24,160 --> 00:33:28,160
+Daher möchte ich gleich für sie sorgen.
+
+478
+00:33:28,160 --> 00:33:30,170
+Zum Schluss habe ich noch eine Frage.
+
+479
+00:33:30,170 --> 00:33:34,170
+Wir konnten herausfinden, wer bei Doktor Bandô war, als er starb.
+
+480
+00:33:34,170 --> 00:33:37,170
+Nozawa Seiji.
+
+481
+00:33:37,170 --> 00:33:42,180
+Kennen Sie sein Verhältnis zu Doktor Bandô?
+
+482
+00:33:42,180 --> 00:33:47,120
+Das Kind von Nozawa-san wurde in unserem Krankenhaus geboren.
+
+483
+00:33:47,120 --> 00:33:51,120
+Ein ausgezeichnetes Gedächtnis, selbst nach 14 Jahren.
+
+484
+00:33:51,120 --> 00:33:54,120
+- Höre ich Sarkasmus?
+- Ah, keineswegs.
+
+485
+00:33:54,120 --> 00:33:59,130
+Wissen Sie ob es jüngst zwischen den beiden Streitigkeiten gegeben hat?
+
+486
+00:33:59,130 --> 00:34:04,130
+Die einzige Verbindung zwischen den beiden, die ich kenne war vor 14 Jahren.
+
+487
+00:34:04,130 --> 00:34:10,140
+Zu jener Zeit war Nozawa-san Doktor Bandô sehr dankbar.
+
+488
+00:34:10,140 --> 00:34:12,140
+Was meinen Sie damit?
+
+489
+00:34:14,140 --> 00:34:20,150
+Nozawa-sans Frau versuchte schon lange ein Baby zu bekommen.
+
+490
+00:34:20,150 --> 00:34:23,150
+Deshalb erinnere ich mich noch an sie.
+
+491
+00:34:25,150 --> 00:34:29,160
+Ich danke Ihnen sehr!
+
+492
+00:34:29,160 --> 00:34:32,160
+Die Unfruchtbarkeitsbehandlung hat endlich angeschlagen.
+
+493
+00:34:32,160 --> 00:34:35,160
+Ich danke Ihnen!
+
+494
+00:34:35,160 --> 00:34:38,170
+Aber nein. Ich habe nichts getan.
+
+495
+00:34:38,170 --> 00:34:41,170
+Ihrem Bestreben haben wir es zu verdanken.
+
+496
+00:34:43,170 --> 00:34:45,190
+Wir werden gemeinsam nach Hause gehen.
+
+497
+00:34:45,190 --> 00:34:48,190
+Ich werde dich immer beschützen, Saki.
+
+498
+00:34:53,120 --> 00:34:57,120
+Was war denn bloß die Verbindung vor 14 Jahren?
+
+499
+00:34:57,120 --> 00:35:00,120
+Was war mit Nozawa und Bandô geschehen?
+
+500
+00:35:00,120 --> 00:35:06,130
+Als er herausgefunden hatte, dass Saki-chan an Leukämie leidet, meinte er er müsse wegen seiner Arbeit gehen.
+
+501
+00:35:06,130 --> 00:35:09,130
+Um den Zeitpunkt herum muss Bandô in etwas geraten sein.
+
+502
+00:35:09,130 --> 00:35:11,130
+- Stimmt.
+- Danke fürs Warten!
+
+503
+00:35:11,130 --> 00:35:13,140
+Das Essen ist da!
+
+504
+00:35:13,140 --> 00:35:15,140
+Mitsui-chan, ist meine große Portion Katsudan (Schnitzel mit Reis und Ei) und Tenpura (frittierter Fisch) dabei?
+
+505
+00:35:15,140 --> 00:35:17,140
+Tsukamoto-san, das sind aber viele Kalorien.
+
+506
+00:35:17,140 --> 00:35:20,140
+Wenn du so besorgt um mich bist, solltest du mir etwas zubereiten.
+
+507
+00:35:20,140 --> 00:35:22,150
+Mitsui-sans Kochkunst ist ausgezeichnet.
+
+508
+00:35:22,150 --> 00:35:24,150
+Woher weißt du das denn?
+
+509
+00:35:24,150 --> 00:35:26,150
+Vergiss es! Ich habe hier Sansai-Soba (Buchweizennudeln mit Berggemüse).
+
+510
+00:35:26,150 --> 00:35:30,150
+Die Nudeln sind genauso schwach wie heute das Verhör mit Nozawas Frau.
+
+511
+00:35:30,150 --> 00:35:32,160
+- Danke!
+- Chikara-Udon (Weizennudeln und Mochi).
+
+512
+00:35:32,160 --> 00:35:34,160
+Hat Nozawas Frau wirklich nichts gewusst?
+
+513
+00:35:34,160 --> 00:35:36,160
+Es gab kein Anzeichen, dass sie gelogen hat.
+
+514
+00:35:36,160 --> 00:35:41,160
+Aber sie verbirgt immer noch etwas. Wir sollten sie uns genauer unter die Lupe nehmen.
+
+515
+00:35:41,160 --> 00:35:44,170
+Hä? Wo ist mein Tanuki-Udon (Weizennudeln und frittierten Tenpura)?
+
+516
+00:35:44,170 --> 00:35:47,100
+Ah, entschuldige bitte, das habe ich vergessen.
+
+517
+00:35:47,100 --> 00:35:49,110
+Du, im Kühlschrank liegen noch Bananen.
+
+518
+00:35:49,110 --> 00:35:51,110
+- Hä?
+- Auf Wiedersehen!
+
+519
+00:35:51,110 --> 00:35:54,110
+- Auf Wiedersehen!
+- Moment, was ist mit meiner Bestellung?
+
+520
+00:35:54,110 --> 00:35:57,110
+Vorsteher, konntest du zu Minister Mihara Akten zur Organspende finden?
+
+521
+00:35:57,110 --> 00:36:01,120
+Ja, ein Gerücht aus einem Wochenmagazin.
+
+522
+00:36:01,120 --> 00:36:04,120
+Der Minister scheint das jedoch schnell vertuscht zu haben.
+
+523
+00:36:04,120 --> 00:36:06,120
+Dann ist der Minister darin verstrickt?
+
+524
+00:36:06,120 --> 00:36:08,120
+Wir werden es Fukazawa mitteilen. Es ist seine Entscheidung.
+
+525
+00:36:08,120 --> 00:36:12,130
+Konzentrieren wir uns auf die Verbindung von Nozawa und Bandô im Hachiôji-Fall.
+
+526
+00:36:12,130 --> 00:36:14,130
+In der Tat. Ich werde mich in Jolins Umkreis genauer umschauen.
+
+527
+00:36:14,130 --> 00:36:16,130
+Ja, bitte.
+
+528
+00:36:16,130 --> 00:36:19,140
+- Takamine, sieh dich bei Nozawa um.
+- Gut.
+
+529
+00:36:19,140 --> 00:36:21,140
+Tsukamoto, bleib an der Krankenschwester Hatakeyama dran.
+
+530
+00:36:21,140 --> 00:36:23,140
+Ich kann mir nicht vorstellen, dass sie damit nichts zu tun hat.
+
+531
+00:36:23,140 --> 00:36:25,140
+- Gut.
+- Und was ist mit mir?
+
+532
+00:36:25,140 --> 00:36:28,140
+Geh wieder zurück! Du bist schon lange genug hier!
+
+533
+00:36:38,150 --> 00:36:40,150
+Wenn du aufgegessen hast, solltest du heimgehen.
+
+534
+00:36:42,160 --> 00:36:45,180
+Aus welchem Grund ließ Nozawa Saki-chan im Stich?
+
+535
+00:36:45,180 --> 00:36:50,100
+Und dass nach der ganzen Anstrengung sie zu bekommen.
+
+536
+00:36:50,100 --> 00:36:54,100
+Ein Vater, der seine Kinder im Stich lässt ist das Letzte.
+
+537
+00:36:56,110 --> 00:36:58,110
+Tsukamoto-san, ich habe eine Bitte an dich.
+
+538
+00:36:58,110 --> 00:37:02,110
+Könntest du bitte Vorsteher Kurata fragen, ob ich bei den Untersuchungen der Sonderabteilung mitwirken darf?
+
+539
+00:37:02,110 --> 00:37:06,120
+Deine Zuständigkeit ist im Büro. Das wurde dir doch eingepleut?
+
+540
+00:37:06,120 --> 00:37:09,120
+Ich weiß aber wie Saki-chan zumute sein muss.
+
+541
+00:37:09,120 --> 00:37:12,120
+Das hast du bisher nicht erwähnt?
+
+542
+00:37:12,120 --> 00:37:18,130
+Als ich noch klein war, ließ auch mein Vater meine Mutter und mich zurück.
+
+543
+00:37:18,130 --> 00:37:20,130
+Bitte, Tsukamoto-san!
+
+544
+00:37:20,130 --> 00:37:22,130
+Wegen Saki-chan möchte ich mich bei den Untersuchungen beteiligen.
+
+545
+00:37:22,130 --> 00:37:25,130
+Ich verspreche, dass ich alles tun werde.
+
+546
+00:37:25,130 --> 00:37:31,140
+Zudem habe ich Informationen von Saki-chan, die Takamine-san nicht hat.
+
+547
+00:37:31,140 --> 00:37:33,140
+Du willst es ehrlich nur für Saki-chan machen?
+
+548
+00:37:33,140 --> 00:37:35,140
+Gewiss.
+
+549
+00:37:35,140 --> 00:37:37,150
+Wir werden wohl die schwere Krankheit nicht erkennen.
+
+550
+00:37:37,150 --> 00:37:41,150
+Ich weiß wie es dir geht.
+
+551
+00:37:41,150 --> 00:37:43,150
+Bei mir war es damals genauso.
+
+552
+00:37:43,150 --> 00:37:45,120
+Was meinst du damit?
+
+553
+00:37:45,120 --> 00:37:48,990
+Ich denke du steigerst dich wegen der ganzen Aufregung da hinein.
+
+554
+00:37:48,990 --> 00:37:50,990
+Das stimmt nicht!
+
+555
+00:37:50,990 --> 00:37:56,000
+Warum benutzt du dann die Hinterbliebenen dafür dich herauszuwinden?
+
+556
+00:37:56,000 --> 00:38:00,000
+Aktuell bist du diejenige, die ermitteln will.
+
+557
+00:38:19,020 --> 00:38:22,020
+Ah, du bist gekommen, Neuling.
+
+558
+00:38:22,020 --> 00:38:25,030
+Entschuldigung, dass ich mich lange nicht habe blicken lassen.
+
+559
+00:38:25,030 --> 00:38:28,030
+Hast du ein bisschen Erfahrung gesammelt? Du bist für das Büro zuständig.
+
+560
+00:38:32,030 --> 00:38:36,030
+Warum wollten Sie, dass ich dort zuständig bin?
+
+561
+00:38:38,040 --> 00:38:43,040
+Als ich in der Sonderabteilung anfing, verstand ich schließlich, was es heißt Untersuchungen zu führen.
+
+562
+00:38:45,050 --> 00:38:51,080
+Wäre ich nicht gegangen, dann hätte ich mehr Erfahrung gesammelt und wäre auch nicht so ungeduldig.
+
+563
+00:38:55,090 --> 00:38:58,090
+Ich weiß nicht, wo ich hingehöre.
+
+564
+00:39:05,100 --> 00:39:10,100
+Neuling, was weißt du auf der Reise Verstorbener zu sein?
+
+565
+00:39:12,110 --> 00:39:14,110
+Nichts.
+
+566
+00:39:14,500 --> 00:39:18,500
+(auf der Reise Verstorbener)
+
+567
+00:39:22,120 --> 00:39:24,120
+Auf der Reise Verstorbener.
+
+568
+00:39:24,120 --> 00:39:26,120
+Nicht zu Identifizierende.
+
+569
+00:39:26,120 --> 00:39:28,120
+Tote ohne einen Angehörigen.
+
+570
+00:39:28,120 --> 00:39:32,130
+Jolin war auch eine auf der Reise befindliche Verstorbene, bevor sie identifiziert wurde.
+
+571
+00:39:32,130 --> 00:39:35,130
+Was zur Feststellung ihrer Identität nötig war ...
+
+572
+00:39:35,130 --> 00:39:39,140
+- Shiraishi-san.
+- Ja.
+
+573
+00:39:39,140 --> 00:39:43,140
+Zu einer sich illegal hier Aufhaltenden, auf der Reise Verstorbene und die keiner kennt,
+
+574
+00:39:43,140 --> 00:39:47,080
+die Wahrheit aufzudecken, gestaltet sich wirklich schwierig.
+
+575
+00:39:47,080 --> 00:39:51,080
+Für viele wäre es ein Leichtes die Untersuchungen aufzugeben.
+
+576
+00:39:51,080 --> 00:39:55,080
+Und genau deshalb gibt Shiraishi alles nicht aufzugeben.
+
+577
+00:39:55,080 --> 00:40:01,090
+Schon seit Beginn sammelt Shiraishi ununterbrochen Hinweise.
+
+578
+00:40:01,090 --> 00:40:06,100
+Auch in unserer Sonderabteilung verlor er nicht seinen Glauben.
+
+579
+00:40:06,100 --> 00:40:13,100
+Neuling, bevor du sagst, du weißt nicht wo du hingehörst, gibt's nicht etwas, das du vorher machen solltest?
+
+580
+00:40:18,110 --> 00:40:21,110
+Morgen muss ich wieder zur Arbeit.
+
+581
+00:40:21,110 --> 00:40:24,110
+Du solltest bald nach Hause gehen.
+
+582
+00:40:24,110 --> 00:40:26,120
+Vielen Dank!
+
+583
+00:40:35,000 --> 00:40:38,000
+(Chan Jolin)
+
+584
+00:40:44,130 --> 00:40:47,070
+Etwas, das ich machen soll?
+
+585
+00:41:18,100 --> 00:41:22,100
+Saki-chan ist niedlich.
+
+586
+00:41:28,110 --> 00:41:31,110
+Sie waren eine fabelhafte Familie.
+
+587
+00:41:47,060 --> 00:41:51,070
+Hallo, aufgewacht! Hast du etwa im Büro geschlafen?
+
+588
+00:41:51,070 --> 00:41:54,070
+Ah, nicht schon wieder!
+
+589
+00:41:54,070 --> 00:41:58,070
+Jetzt hast du vom Liegen furchtbare Haare.
+
+590
+00:41:58,070 --> 00:42:00,080
+Ah, entschuldige.
+
+591
+00:42:02,080 --> 00:42:05,080
+Fahndungshauptquartier für den Mord durch Brandstiftung. Shiraishi.
+
+592
+00:42:05,080 --> 00:42:08,080
+Hier ist Ômori. Ich habe etwas Interessantes gefunden.
+
+593
+00:42:08,080 --> 00:42:12,090
+- Die Einzelheiten!
+- Ich habe eine Bedingung.
+
+594
+00:42:12,090 --> 00:42:15,090
+Was?
+
+595
+00:42:15,090 --> 00:42:19,090
+Heh, Ômori. Wie versprochen habe ich sie dabei. Bitte!
+
+596
+00:42:19,090 --> 00:42:21,100
+- Entschuldigt, dass ich nichts von mir habe hören lassen.
+- Buh, Sakuragi ist da.
+
+597
+00:42:21,100 --> 00:42:24,100
+Sakuragi, weißt du wie lange ich schon auf dich warte?
+
+598
+00:42:24,100 --> 00:42:27,100
+Ah, ich habe heute schlecht geschlafen. Bitte schikaniere mich nicht.
+
+599
+00:42:27,100 --> 00:42:29,100
+Ômori, jetzt sag mir gefälligst was du herausgefunden hast.
+
+600
+00:42:29,100 --> 00:42:31,110
+Ich habe es nur für dich getan!
+
+601
+00:42:31,110 --> 00:42:34,110
+Jetzt habe ich aber Angst (!)
+
+602
+00:42:34,110 --> 00:42:36,110
+Was soll das sein?
+
+603
+00:42:36,110 --> 00:42:39,110
+Wir haben uns die Kleidung von Jolin noch einmal angeschaut.
+
+604
+00:42:39,110 --> 00:42:41,120
+Hier ist die Antwort!
+
+605
+00:42:41,120 --> 00:42:44,120
+Ahh, aufhören! Insekten! Ich hasse die Viecher!
+
+606
+00:42:44,120 --> 00:42:47,120
+- Sie sind in meiner Kleidung!
+- So ist es schön, immer weiter so kleines Mädchen!
+
+607
+00:42:47,120 --> 00:42:51,130
+Du bist eine Schlange, sie mit den Kleintieren zu quälen. Das ist Gummi.
+
+608
+00:42:51,130 --> 00:42:54,130
+- Ein Seepferdchen.
+- Ah, ein Seepferdchen?
+
+609
+00:42:54,130 --> 00:42:59,130
+Genau, es war ein getrocknetes Seepferdchen in Jolins Hosentasche.
+
+610
+00:42:59,130 --> 00:43:01,140
+Und noch etwas war merkwürdig.
+
+611
+00:43:01,140 --> 00:43:07,140
+In den verbrannten Überresten von Nozawa Seiji fanden wir weiter einen Stofffetzen mit Spuren eines Seepferdchens.
+
+612
+00:43:07,140 --> 00:43:09,140
+Dann hat die Kleidung etwas damit zu tun.
+
+613
+00:43:09,140 --> 00:43:14,150
+Tja, ist es nicht interessant, dass die beiden die Seepferdchen verbindet?
+
+614
+00:43:14,150 --> 00:43:16,150
+Nur warum Seepferdchen?
+
+615
+00:43:16,150 --> 00:43:20,150
+Ich habe hier auch etwas ziemlich Gutes!
+
+616
+00:43:23,160 --> 00:43:26,160
+Eine Übereinstimmung der verbrannten Kleidung.
+
+617
+00:43:26,160 --> 00:43:28,160
+Snack Akemi?
+
+618
+00:43:28,160 --> 00:43:31,170
+Die Verbrennung war wirklich schlimm, aber wir konnten die Schrift wiederherstellen.
+
+619
+00:43:31,170 --> 00:43:36,170
+"Egal wie aussichtslos der Fall scheint, es besteht immer Hoffnung." - von Takebayashi.
+
+620
+00:43:36,170 --> 00:43:38,170
+Akiyama, notiere das gleich.
+
+621
+00:43:38,170 --> 00:43:41,180
+- Gut.
+- Sakuragi, komm mit!
+
+622
+00:43:41,180 --> 00:43:43,180
+- Was?
+- Los jetzt!
+
+623
+00:43:43,180 --> 00:43:45,200
+Was? Aber Shiraishi-san ...
+
+624
+00:43:45,200 --> 00:43:47,200
+Schon gut.
+
+625
+00:43:48,000 --> 00:43:50,000
+(Snack Akemi)
+
+626
+00:43:55,000 --> 00:43:57,000
+(Hauptstadt-Polizeipräsidium - Polizeirevier Hachiôji-Süd)
+
+627
+00:44:00,130 --> 00:44:02,130
+Fukazawa!
+
+628
+00:44:02,130 --> 00:44:06,130
+Du wirst schon wissen, was wir über den Spender des Ministers herausgefunden haben.
+
+629
+00:44:06,130 --> 00:44:08,140
+Wann wirst du handeln?
+
+630
+00:44:08,140 --> 00:44:11,140
+Ich habe es dargelegt und mir wurde gesagt es zu vergessen.
+
+631
+00:44:11,140 --> 00:44:13,140
+Ich bin nicht wie du und denke zuvor nach.
+
+632
+00:44:13,140 --> 00:44:16,150
+Mach dir darüber keine Gedanken.
+
+633
+00:44:16,150 --> 00:44:20,150
+Fürchtest du dich, weil du es mit einem großer Tier zu tun hast?
+
+634
+00:44:20,150 --> 00:44:23,150
+Mit dir hat das nichts zu tun.
+
+635
+00:44:23,150 --> 00:44:28,150
+Er lässt sich von diesem Minister auf den Schlips treten?
+
+636
+00:44:32,160 --> 00:44:35,160
+Entschuldige bitte diesen aufdringlichen Wunsch.
+
+637
+00:44:35,160 --> 00:44:39,170
+Ich habe meinen Freund, einen Staatssekretär im Ministerium besucht.
+
+638
+00:44:39,170 --> 00:44:41,170
+Mach dir nichts daraus.
+
+639
+00:44:41,170 --> 00:44:44,170
+Ich werde das Geheimnis für mich behalten.
+
+640
+00:44:44,170 --> 00:44:46,110
+Vielen Dank!
+
+641
+00:44:46,110 --> 00:44:51,110
+Wie gefällt dir dein neuer Auftrag? Du bist inzwischen ein halbes Jahr dort.
+
+642
+00:44:51,110 --> 00:44:55,120
+Tsukamoto-san meinte, der Anzug passt nicht zu mir.
+
+643
+00:44:55,120 --> 00:44:58,120
+Ich denke er ist neidisch, weil ich eine höhere Position innehabe.
+
+644
+00:44:58,120 --> 00:45:01,120
+- Bist du besorgt?
+- Was?
+
+645
+00:45:01,120 --> 00:45:04,130
+Er wird seine Meinung nicht ändern.
+
+646
+00:45:04,130 --> 00:45:08,130
+Ich bin mehr drauf gepicht die Ansicht anderer zu ändern.
+
+647
+00:45:08,130 --> 00:45:12,130
+Ich verstehe, dass es schwer ist oben zu sein.
+
+648
+00:45:12,130 --> 00:45:16,140
+Es schnürt einen zu, aber ich werde machen was ich kann.
+
+649
+00:45:16,140 --> 00:45:19,140
+Entschuldigung!
+
+650
+00:45:19,140 --> 00:45:21,140
+Minister Mihara ist hier.
+
+651
+00:45:26,150 --> 00:45:32,150
+Ich weiß von einem Gerücht, dass Sie vor 14 Jahren Ihren Einfluss dazu benutzt haben,
+
+652
+00:45:32,150 --> 00:45:37,160
+alles daran zu setzten einen Spender für eine Nierentransplantation zu finden.
+
+653
+00:45:37,160 --> 00:45:45,180
+Unsere Nachforschungen haben ergeben, dass eine Verbindung zu einem ausländischen Organhändler besteht.
+
+654
+00:45:45,180 --> 00:45:47,100
+Das überrascht mich jetzt aber.
+
+655
+00:45:47,100 --> 00:45:53,110
+Doktor Bandô soll beim Handel mit Organen verstrickt gewesen sein.
+
+656
+00:45:53,110 --> 00:45:56,110
+Die Polizei geht ganz schon leichtfertig damit um.
+
+657
+00:45:56,110 --> 00:45:58,110
+Jedoch streiten Sie es nicht ab.
+
+658
+00:45:58,110 --> 00:46:01,120
+Das war damals mein Sekretär.
+
+659
+00:46:01,120 --> 00:46:03,120
+Er war damals besorgt, dass ich keinen Spender finden werde.
+
+660
+00:46:03,120 --> 00:46:06,120
+Und er tat was in seiner Macht stand.
+
+661
+00:46:06,120 --> 00:46:08,120
+Mein Sekretär sollte zweifellos dafür gelobt werden.
+
+662
+00:46:08,120 --> 00:46:12,130
+Die Hauptsache ist doch, dass ein Menschenleben gerettet wurde.
+
+663
+00:46:12,130 --> 00:46:14,130
+Wollen Sie Ihren Sekretär jetzt dafür zur Verantwortung ziehen?
+
+664
+00:46:14,130 --> 00:46:17,130
+Ich habe kein schlechtes Gewissen.
+
+665
+00:46:17,130 --> 00:46:20,140
+Das hat eh nichts mit Doktor Bandô zu tun.
+
+666
+00:46:20,140 --> 00:46:25,140
+- Sie sind doch Fukazawa?
+- Ja.
+
+667
+00:46:25,140 --> 00:46:30,150
+Von Ihnen habe ich auch einiges gehört. Ich werde Sie mir merken.
+
+668
+00:46:30,150 --> 00:46:35,150
+Wir möchten vorschriftsmäßig beantragen im Ministerium für Gesundheit, Arbeit und Wohlfahrt Untersuchungen durchzuführen.
+
+669
+00:46:35,150 --> 00:46:38,150
+Was reden Sie da?
+
+670
+00:46:38,150 --> 00:46:46,090
+Wir werden unser Verhör vertraulich behandeln und alle Anschuldigungen unterbinden.
+
+671
+00:46:46,090 --> 00:46:50,100
+Es besteht also kein Grund zur Beunruhigung?
+
+672
+00:46:50,100 --> 00:46:56,100
+Bis nicht alle offene Fragen geklärt wurden, werden wir die Untersuchungen nicht beenden.
+
+673
+00:46:58,110 --> 00:47:01,110
+Seien Sie vernünftig.
+
+674
+00:47:01,110 --> 00:47:05,110
+Es gibt noch andere, die Sie überprüfen sollten!
+
+675
+00:47:05,110 --> 00:47:12,120
+Ich kann nachvollziehen wie wichtig Ihnen die Organtransplantation ist.
+
+676
+00:47:12,120 --> 00:47:16,120
+Sie werden derjenige sein, der die japanische Medizin ändern wird.
+
+677
+00:47:18,130 --> 00:47:21,130
+Bemühen Sie sich nicht mich zu verabschieden.
+
+678
+00:47:21,130 --> 00:47:23,130
+Ich wünsche viel Erfolg, Mihara-sensei!
+
+679
+00:47:23,130 --> 00:47:25,130
+Danke!
+
+680
+00:47:40,150 --> 00:47:42,150
+Was machst du hier?
+
+681
+00:47:51,090 --> 00:47:53,090
+Heh!
+
+682
+00:47:56,100 --> 00:47:59,100
+Dann ist Yamamoto Motoki auch darin verstrickt.
+
+683
+00:47:59,100 --> 00:48:01,100
+Was hat er Shiraishi-san erzählt?
+
+684
+00:48:01,100 --> 00:48:04,110
+Musst du das mit deinem Abteilungsleiter absprechen?
+
+685
+00:48:04,110 --> 00:48:06,110
+Natürlich nicht, das gehört zu unseren Untersuchungen.
+
+686
+00:48:06,110 --> 00:48:08,110
+Du meinst das jetzt ernst?
+
+687
+00:48:08,110 --> 00:48:10,110
+- Hallo und viel Erfolg!
+- Wir sind zurück.
+
+688
+00:48:10,110 --> 00:48:12,110
+Ah, was machst du hier Sakuragi?
+
+689
+00:48:12,110 --> 00:48:16,120
+Entschuldigung, Shiraishi-san hat mich dazu genötigt.
+
+690
+00:48:16,120 --> 00:48:18,120
+Shiraishi-san, das bringt dich in Schwierigkeiten! Du kannst nicht einfach über Sakuragi verfügen!
+
+691
+00:48:18,120 --> 00:48:20,120
+Sie ist nicht bei uns!
+
+692
+00:48:20,120 --> 00:48:22,120
+Ich war mit Arbeit überhäuft.
+
+693
+00:48:22,120 --> 00:48:25,130
+Jedenfalls hat uns das zum möglichen Mörder der Brandstiftung geführt.
+
+694
+00:48:25,130 --> 00:48:27,130
+Wen?
+
+695
+00:48:27,130 --> 00:48:29,130
+Tachibana Ryûichi.
+
+696
+00:48:29,130 --> 00:48:32,130
+Die Übereinstimmung seiner Lieblings-Snackbar mit dem Fund am Brandort.
+
+697
+00:48:32,130 --> 00:48:37,140
+Außerdem, weiß der Ladenbesitzer, dass Tachibana ein Apartment im ersten Obergeschoss hat.
+
+698
+00:48:37,140 --> 00:48:40,140
+Tachibana verwendete die Wohnung, um die illegalen Personen zu beherbergen.
+
+699
+00:48:40,140 --> 00:48:43,150
+So ein Mist, wir haben Tachibana erst kürzlich gehen lassen.
+
+700
+00:48:43,150 --> 00:48:45,160
+Hast du das überprüft?
+
+701
+00:48:45,160 --> 00:48:47,080
+Der Besitzer gab sich geschlagen. Ohne jeden Zweifel.
+
+702
+00:48:47,080 --> 00:48:50,090
+Wenn es uns gelingt das nachzuweisen, können wir können wir den Organhandel beweisen.
+
+703
+00:48:50,090 --> 00:48:52,090
+Verständigt das Büro und veranlasst alle den Wohnblock zu durchsuchen.
+
+704
+00:48:52,090 --> 00:48:54,090
+Jawohl.
+
+705
+00:48:56,090 --> 00:49:01,090
+Shiraishi-san, kann ich mit dir über Motoki-kun sprechen?
+
+706
+00:49:05,100 --> 00:49:09,100
+Ob Mihara wirklich Motoki-kun erkannte?
+
+707
+00:49:09,100 --> 00:49:12,110
+Das bringt eins zum anderen.
+
+708
+00:49:12,110 --> 00:49:19,110
+Wenn das der Wahrheit entspricht, muss er vor mir die 14 Jahre etwas verschwiegen haben.
+
+709
+00:49:19,110 --> 00:49:21,120
+Wirst du ihn befragen?
+
+710
+00:49:21,120 --> 00:49:26,120
+Fukazawa meinte, dass außer mir ihn keiner befragen kann.
+
+711
+00:49:26,120 --> 00:49:31,130
+- Aber ...
+- Jolin ist kein Gespenst.
+
+712
+00:49:31,130 --> 00:49:36,130
+Wieso sie auch umgebracht wurde, sie war ein menschliches Wesen.
+
+713
+00:49:38,130 --> 00:49:44,140
+Den Grund für ihren Tod zu finden ist die Arbeit eines Kriminalers.
+
+714
+00:49:44,140 --> 00:49:47,140
+Der Wahrheit kann ich nicht entfliehen.
+
+715
+00:49:50,080 --> 00:49:53,080
+Sakuragi, versteck dich!
+
+716
+00:50:13,100 --> 00:50:16,100
+Er hat uns bemerkt.
+
+717
+00:50:16,100 --> 00:50:19,100
+- Tachibana!
+- Halt! Hier geblieben!
+
+718
+00:50:27,120 --> 00:50:30,120
+Tachibana! Verdammte Scheiße!
+
+719
+00:50:32,120 --> 00:50:35,120
+- Ihr nehmt euch die Frauen vor!
+- Jawohl.
+
+720
+00:50:41,130 --> 00:50:43,130
+- Ihr, da lang!
+- Gut!
+
+721
+00:50:43,130 --> 00:50:46,070
+Polizei! Keine Bewegung!
+
+722
+00:50:46,070 --> 00:50:50,070
+Es bewegt sich keiner! Alle hiergeblieben!
+
+723
+00:50:54,080 --> 00:50:57,080
+Yamazaki-san, hier ebenfalls.
+
+724
+00:51:03,090 --> 00:51:06,090
+Warum sind alle schwanger?
+
+725
+00:51:08,090 --> 00:51:10,090
+Setzen Sie sich!
+
+726
+00:51:13,100 --> 00:51:15,100
+- Kann ich helfen ...?
+- Verschwinde!
+
+727
+00:51:15,100 --> 00:51:17,100
+- Dort drüben!
+- Entschuldigung!
+
+728
+00:51:17,100 --> 00:51:19,100
+Kann ich behilflich sein?
+
+729
+00:51:19,100 --> 00:51:22,100
+Nein, schon gut! Geh da rüber!
+
+730
+00:51:22,100 --> 00:51:24,110
+Was ist denn hier los?
+
+731
+00:51:24,110 --> 00:51:26,110
+Wissen wir nicht genau, denn Tachibana ist uns entkommen.
+
+732
+00:51:29,110 --> 00:51:31,110
+- Jetzt ...
+- Tsukamoto-san! Tsukamoto-san!
+
+733
+00:51:31,110 --> 00:51:33,120
+Kann ich irgendetwas tun?
+
+734
+00:51:33,120 --> 00:51:36,120
+Look, look! This picture! Hallo?
+
+735
+00:51:36,120 --> 00:51:38,120
+Sehen Sie sich das Foto an!
+
+736
+00:51:38,120 --> 00:51:40,120
+Nicht das ...
+
+737
+00:51:40,120 --> 00:51:43,130
+Nein, du hast sie zum Weinen gebracht.
+
+738
+00:51:43,130 --> 00:51:45,140
+Ruhe! Was willst du?
+
+739
+00:51:45,140 --> 00:51:48,060
+- Warum bist du über mich so verärgert?
+- Was ist mit meinem Geld?
+
+740
+00:51:48,060 --> 00:51:52,070
+- Geld?
+- Das Kind sind 3 Millionen Yen.
+
+741
+00:51:52,070 --> 00:51:56,070
+Wie? Für das Kind 3 Millionen?
+
+742
+00:52:00,080 --> 00:52:03,080
+Ich verstehe kein Wort von dem, was Sie sagen.
+
+743
+00:52:03,080 --> 00:52:06,080
+- Der Dolmetscher ist eingetroffen!
+- Entschuldigung, hier bitte!
+
+744
+00:52:06,080 --> 00:52:08,080
+- Hier bitte!
+- Beeilung!
+
+745
+00:52:31,110 --> 00:52:35,110
+Das Kind wird es Ihnen danken.
+
+746
+00:52:37,110 --> 00:52:41,110
+Die schmerzstillenden Mittel werden bald einsetzen. Ruhen Sie sich aus.
+
+747
+00:52:42,000 --> 00:52:45,000
+Jolin, kehre nach China zurück.
+
+748
+00:52:59,130 --> 00:53:03,140
+Die Geburt verlief ohne Komplikationen.
+
+749
+00:53:03,140 --> 00:53:06,140
+Saki, ich bin dein Vater.
+
+750
+00:53:06,140 --> 00:53:09,140
+Also, Saki-chan? Ein schöner Name.
+
+751
+00:53:09,140 --> 00:53:12,150
+Meine Frau will sie bitte halten.
+
+752
+00:53:12,150 --> 00:53:14,150
+Natürlich.
+
+753
+00:53:17,150 --> 00:53:22,160
+Ich weiß von Minister Mihara, dass die Nationale Polizeibehörde gegen ihn ermittelt.
+
+754
+00:53:22,160 --> 00:53:28,160
+Besitzen Sie Vertrauen gegenüber Ihren Vorgesetzten?
+
+755
+00:53:28,160 --> 00:53:30,170
+Nein.
+
+756
+00:53:30,170 --> 00:53:34,170
+Warum sind Sie dann ohne Erlaubnis hinter ihm her?
+
+757
+00:53:36,170 --> 00:53:40,180
+Das war unvorsichtig von Ihnen. Und hat mich auch in Verlegenheit gebracht.
+
+758
+00:53:40,180 --> 00:53:43,180
+Ich versuche einen Fall zu klären! Diese etwas überzogene Gewalt war nötig.
+
+759
+00:53:43,180 --> 00:53:46,110
+Wessen Idee war es gegen ihn Nachforschungen anzustellen?
+
+760
+00:53:46,110 --> 00:53:52,120
+Es wird kein zweites Mal geben, Fukazawa. Beim nächsten Mal wird Nagashima die Verantwortung übernehmen.
+
+761
+00:53:52,120 --> 00:53:54,120
+Verstanden?
+
+762
+00:53:56,120 --> 00:53:59,130
+Ich habe verstanden.
+
+763
+00:53:59,130 --> 00:54:03,130
+Die Unfruchtbarkeitsbehandlung von Fukuzawas Frau war letztendlich der Kauf eines Kindes.
+
+764
+00:54:03,130 --> 00:54:09,140
+Der Chinesin zufolge verkaufte Jolin ihre Niere in China, um an das nötige Geld für die Reise nach Japan zu kommen.
+
+765
+00:54:09,140 --> 00:54:12,140
+Dann war es von Anfang an kein Organhandel.
+
+766
+00:54:12,140 --> 00:54:14,140
+Es ist ein Babyhandel.
+
+767
+00:54:14,140 --> 00:54:19,150
+Morgen werde ich ein DNA-Gutachten an Nozawa Seijis Frau und Chan Jolin im Vergleich zu Nozawa Saki in Auftrag geben
+
+768
+00:54:19,150 --> 00:54:21,150
+Ja.
+
+769
+00:54:21,150 --> 00:54:24,150
+Sakuragi, du solltest auch gehen.
+
+770
+00:54:24,150 --> 00:54:27,160
+- Ja.
+- Shiraishi-san.
+
+771
+00:54:27,160 --> 00:54:30,160
+Shiraishi-san, bist du in der Lage Yamamoto Motoki zu vernehmen?
+
+772
+00:54:30,160 --> 00:54:32,160
+Geht in Ordnung.
+
+773
+00:54:32,160 --> 00:54:37,170
+Minister Miharas Sohn kam ebenfalls in der Klinik von Bandô zur Welt.
+
+774
+00:54:37,170 --> 00:54:39,170
+Die Anmeldung der Geburt.
+
+775
+00:54:39,170 --> 00:54:41,170
+Mihara kaufte ebenfalls ein Kind?
+
+776
+00:54:41,170 --> 00:54:46,110
+Dann holen wir uns Mihara. Er hat ganz klar damit zu tun.
+
+777
+00:54:46,110 --> 00:54:48,110
+Wir verwerfen das. Wir haben nur Aussagen Nozawa betreffend.
+
+778
+00:54:48,110 --> 00:54:51,110
+Warum das? Drei Menschen sind bereits gestorben!
+
+779
+00:54:51,110 --> 00:54:54,120
+Es floss nicht bei jeder Geburt in Bandôs Klinik Geld.
+
+780
+00:54:54,120 --> 00:54:56,120
+Gegen Mihara liegen uns keine Beweise vor.
+
+781
+00:54:56,120 --> 00:54:58,120
+Du drückst dich!
+
+782
+00:54:58,120 --> 00:55:03,120
+Mein Ansehen steht auf dem Spiel. Lass mich den Befehl geben.
+
+783
+00:55:05,130 --> 00:55:09,130
+Alle noch übrigen nehmen Tachibanas Spur auf.
+
+784
+00:55:09,130 --> 00:55:11,130
+Tachibana ist im Mord durch Brandstiftung der Verdächtige.
+
+785
+00:55:11,130 --> 00:55:13,130
+Tut alles Notwendige ihn zu fassen.
+
+786
+00:55:13,130 --> 00:55:16,140
+Jawohl.
+
+787
+00:55:16,140 --> 00:55:21,140
+Tsukamoto, wir werden uns an der Suche von Tachibana beteiligen.
+
+788
+00:55:21,140 --> 00:55:23,140
+Verdammt.
+
+789
+00:55:32,150 --> 00:55:35,160
+Wurde dir von oben nahegelegt nicht weiter gegen Minister Mihara zu ermitteln?
+
+790
+00:55:35,160 --> 00:55:37,160
+Du steckst in der Zwickmühle.
+
+791
+00:55:37,160 --> 00:55:43,160
+Du wirst von oben und von unten gestoßen. Du kannst nicht deinen Willen durchsetzen, das beunruhigt dich.
+
+792
+00:55:43,160 --> 00:55:48,100
+Es ist wirklich unangenehm wie du die Gedanken anderer durchschaust.
+
+793
+00:55:48,100 --> 00:55:50,110
+Du liegst nie daneben.
+
+794
+00:55:50,110 --> 00:55:54,110
+Lockere deine Krawatte etwas.
+
+795
+00:55:54,110 --> 00:55:57,110
+- Das lehne ich ab.
+- Hä?
+
+796
+00:55:57,110 --> 00:56:00,120
+Dann wird es so sein, wenn ich zum Abteilungsleiter aufsteige.
+
+797
+00:56:00,120 --> 00:56:03,120
+Die an mich glauben darf ich nicht enttäuschen.
+
+798
+00:56:14,130 --> 00:56:17,130
+Hör auf so seufzen!
+
+799
+00:56:17,130 --> 00:56:19,130
+Tsukamoto-san.
+
+800
+00:56:19,130 --> 00:56:21,140
+- Hallo! Eine große Portion Katsudon.
+- Gerne.
+
+801
+00:56:21,140 --> 00:56:25,140
+- Du magst Katsudon wirklich.
+- Bitte!
+
+802
+00:56:25,140 --> 00:56:29,140
+Und du magst Tanuki-Udon.
+
+803
+00:56:29,140 --> 00:56:32,150
+- Tsukamoto-san.
+- Hm?
+
+804
+00:56:32,150 --> 00:56:35,150
+Saki-chan war ein gekauftes Kind.
+
+805
+00:56:35,150 --> 00:56:39,150
+Warum musst du ihr das beibringen?
+
+806
+00:56:41,160 --> 00:56:44,160
+Ihr trifft ja keine Schuld.
+
+807
+00:56:44,160 --> 00:56:48,100
+Du hast immer diese Bedenken.
+
+808
+00:56:48,100 --> 00:56:51,100
+- Hä?
+- Weißt du noch, was du gesagt hast?
+
+809
+00:56:51,100 --> 00:56:56,100
+- Du wolltest ihr mit deinen Untersuchungen helfen.
+- Das ...
+
+810
+00:56:56,100 --> 00:57:00,110
+Das war nur ein Vorwand, damit du dich wieder aktiv an den Untersuchungen beteiligen konntest.
+
+811
+00:57:00,110 --> 00:57:03,110
+Und was ist jetzt?
+
+812
+00:57:07,120 --> 00:57:10,120
+Entschuldigung, dass Sie warten mussten.
+
+813
+00:57:10,120 --> 00:57:16,120
+Wenn du echt so viel Zeit hast, denke nach was du dem Kind Gutes tun kannst.
+
+814
+00:57:27,140 --> 00:57:31,140
+Ich bin wegen dem morgigen Verhör von Yamamoto Motoki gekommen.
+
+815
+00:57:31,140 --> 00:57:35,140
+Das wäre nicht nötig gewesen, Vorsteher.
+
+816
+00:57:35,140 --> 00:57:37,150
+Du hörst dich wie ein Kôhai an.
+
+817
+00:57:37,150 --> 00:57:40,150
+Wenn wir unter uns sind, brauchst du nicht so förmlich sein.
+
+818
+00:57:42,150 --> 00:57:46,090
+Ich möchte Motoki glauben. 14 Jahre lang hatte ich nach ihm gesucht.
+
+819
+00:57:46,090 --> 00:57:51,090
+Aber ich war voreingenommen. Meine Sinne waren in dem Fall leider getrübt.
+
+820
+00:57:51,090 --> 00:57:54,090
+Ein Kriminaler ist dem Schicksal ausgeliefert.
+
+821
+00:57:56,100 --> 00:58:00,100
+Ich glaube deiner Sichtweise.
+
+822
+00:58:02,100 --> 00:58:05,110
+Du hast nach Yamamoto Motoki 14 Jahre lang gesucht.
+
+823
+00:58:05,110 --> 00:58:08,110
+Er würde uns nicht belügen.
+
+824
+00:58:10,110 --> 00:58:12,110
+Das ist eine gewagte Aussage.
+
+825
+00:58:20,500 --> 00:58:22,500
+(Chemische Reinigung Yamamoto)
+
+826
+00:58:28,130 --> 00:58:31,130
+Willkommen!
+
+827
+00:58:31,130 --> 00:58:34,140
+Du, Shiraishi-san?
+
+828
+00:58:34,140 --> 00:58:36,140
+Ohne den Duft nach Taiyaki habe ich dich gar nicht erkannt.
+
+829
+00:58:36,140 --> 00:58:39,140
+Das ist das erste Mal, dass du mit leeren Händen kommst.
+
+830
+00:58:41,140 --> 00:58:43,140
+Warum diese finstere Miene?
+
+831
+00:58:43,140 --> 00:58:48,080
+Du bist heimlich in Bandôs Klinik eingedrungen und hast nach Akten von Jolin gesucht, war doch so?
+
+832
+00:58:48,080 --> 00:58:54,090
+- Was redest du da?
+- Wieso hast du mir das 14 Jahre lang verschwiegen?
+
+833
+00:58:54,090 --> 00:58:56,090
+Du bist in zwei Verbrechen verwickelt.
+
+834
+00:58:56,090 --> 00:58:58,090
+- Stimmt nicht.
+- Warum hast du es dann verschwiegen?
+
+835
+00:59:01,100 --> 00:59:03,100
+Ich wollte nicht weiter darüber nachdenken.
+
+836
+00:59:06,100 --> 00:59:10,100
+Vielleicht war es meine Schuld, dass Jolin umgebracht wurde.
+
+837
+00:59:12,110 --> 00:59:14,110
+Deshalb habe ich mich nie dazu geäußert.
+
+838
+00:59:18,110 --> 00:59:22,120
+Ich fand heraus, dass die Papiere von ihm sind, die ich gestohlen habe.
+
+839
+00:59:22,120 --> 00:59:25,120
+Jolin, was hast du mit ihm zu schaffen?
+
+840
+00:59:30,120 --> 00:59:32,130
+Jolin?
+
+841
+00:59:32,130 --> 00:59:36,130
+Ah, Entschuldigung! Alles in Ordnung?
+
+842
+00:59:40,130 --> 00:59:42,130
+Was ist das?
+
+843
+00:59:47,080 --> 00:59:49,080
+Wer sind Sie?
+
+844
+00:59:51,080 --> 00:59:53,080
+Heh!
+
+845
+00:59:55,080 --> 00:59:59,080
+Dann ist es wahr, dass Sie Ihre Tochter für Geld bekommen haben?
+
+846
+01:00:03,090 --> 01:00:06,090
+Wir werden DNA-Proben nehmen.
+
+847
+01:00:06,090 --> 01:00:11,090
+Mit dem DNA-Test wollen wir die tatsächliche Mutter finden.
+
+848
+01:00:13,100 --> 01:00:18,110
+Wir wollen uns auch mit Saki-chan unterhalten.
+
+849
+01:00:18,110 --> 01:00:24,110
+Nicht nötig, ich werde es Ihnen erklären.
+
+850
+01:00:35,120 --> 01:00:37,120
+Hideko.
+
+851
+01:00:39,130 --> 01:00:42,130
+Du hast nichts falsch gemacht.
+
+852
+01:00:42,130 --> 01:00:48,070
+Ich bin wegen Unfruchtbarkeit seit acht Jahren in Behandlung. Das ist jetzt die dritte künstliche Befruchtung ...
+
+853
+01:00:48,070 --> 01:00:51,070
+Wieso? Wieso?
+
+854
+01:00:51,070 --> 01:00:54,070
+Wir haben alles in unserer Macht Stehende getan!
+
+855
+01:00:56,080 --> 01:01:00,080
+Vielleicht soll es nicht sein, dass ich Mutter werde?
+
+856
+01:01:00,080 --> 01:01:03,080
+Vielleicht hat es Kami-sama so entschieden.
+
+857
+01:01:03,080 --> 01:01:10,080
+Sag mir was soll ich tun, um Mutter zu werden?
+
+858
+01:01:13,090 --> 01:01:17,100
+Du wirst eine Mutter.
+
+859
+01:01:17,100 --> 01:01:19,100
+Was?
+
+860
+01:01:19,100 --> 01:01:26,100
+Ich habe gehört, dass man ein Kind kaufen kann.
+
+861
+01:01:28,110 --> 01:01:30,110
+Man kann ein Kind kaufen.
+
+862
+01:01:33,110 --> 01:01:38,120
+Während meiner Unfruchtbarkeitsbehandlung habe ich mit dem Gedanken gespielt ein Kind zu adoptieren.
+
+863
+01:01:38,120 --> 01:01:44,130
+Jedoch war es sehr schwer ein Kind zu adoptieren.
+
+864
+01:01:44,130 --> 01:01:47,130
+Es gab damals nur wenige Kinder.
+
+865
+01:01:50,060 --> 01:01:52,060
+Ich weiß, dass es selbstsüchtig von mir war.
+
+866
+01:01:54,070 --> 01:02:01,070
+Aber ich wollte um jeden Preis ein Baby haben.
+
+867
+01:02:07,080 --> 01:02:13,080
+Dich zu finden war wirklich mein größtes Glück.
+
+868
+01:02:16,090 --> 01:02:18,090
+Ich liebe dich, Saki.
+
+869
+01:02:24,100 --> 01:02:26,100
+Saki.
+
+870
+01:02:28,100 --> 01:02:33,100
+Wie viel habe ich gekostet?
+
+871
+01:02:38,110 --> 01:02:40,110
+Verschwinde.
+
+872
+01:02:40,110 --> 01:02:43,120
+Saki.
+
+873
+01:02:43,120 --> 01:02:47,120
+- Verschwinde! Verschwinde!
+- Saki! Saki ...!
+
+874
+01:02:47,120 --> 01:02:51,130
+Nozawa-san, gehen wir.
+
+875
+01:02:51,130 --> 01:02:53,130
+Bitte.
+
+876
+01:03:04,140 --> 01:03:07,140
+Nozawa-san? Alles in Ordnung?
+
+877
+01:03:07,140 --> 01:03:12,150
+Was ist los? Geht's Ihnen gut?
+
+878
+01:03:12,150 --> 01:03:15,150
+Setzen Sie sich hier. Können Sie Ihre Beine bewegen?
+
+879
+01:03:17,150 --> 01:03:21,160
+Sie hyperventilieren. Es wird alles gut.
+
+880
+01:03:21,160 --> 01:03:23,160
+Atmen Sie langsam ein und aus.
+
+881
+01:03:29,160 --> 01:03:32,170
+Kann ich von dir Speichel nehmen?
+
+882
+01:03:46,110 --> 01:03:50,110
+Meine Mutter, die mich verkaufte, was für ein Mensch war sie?
+
+883
+01:03:54,120 --> 01:03:58,120
+Ach, sie kann kein guter Mensch gewesen sein.
+
+884
+01:04:04,130 --> 01:04:09,130
+Sie wurde vor 14 Jahren ermordet.
+
+885
+01:04:12,140 --> 01:04:15,140
+Wir kennen den Täter noch nicht.
+
+886
+01:04:15,140 --> 01:04:18,140
+Steht das im Zusammenhang mit dem Tod meines Vaters?
+
+887
+01:04:21,150 --> 01:04:23,150
+Das wissen wir noch nicht.
+
+888
+01:04:27,150 --> 01:04:33,160
+Meine echte Mutter hat mich verkauft.
+
+889
+01:04:33,160 --> 01:04:43,160
+Und mein Vater, der mich großzog, ist heimlich abgehauen, tat etwas Böses getan und wurde ermordet.
+
+890
+01:04:47,110 --> 01:04:51,110
+Mein Leben ist einfach schonungslos.
+
+891
+01:04:51,110 --> 01:04:54,110
+Nichts ist von Bedeutung.
+
+892
+01:04:57,120 --> 01:05:01,120
+Und weil ich das geäußert habe, sind alle wütend über mich.
+
+893
+01:05:03,120 --> 01:05:11,120
+Kriminalbeamtin-san, was denken Sie? Dass ich das lassen soll und mein Leben fortsetzen soll?
+
+894
+01:05:17,140 --> 01:05:20,140
+Gibt's wirklich Menschen auf der Welt, die das bewältigen können?
+
+895
+01:05:34,160 --> 01:05:39,160
+Bitte nicht! Hör auf! Bitte nicht!
+
+896
+01:05:39,160 --> 01:05:41,160
+Nein.
+
+897
+01:05:45,180 --> 01:05:50,100
+Es gibt niemanden, der das bewältigen kann.
+
+898
+01:06:17,120 --> 01:06:20,120
+Entschuldigen Sie bitte, dass ich zusammengebrochen bin.
+
+899
+01:06:20,120 --> 01:06:22,120
+Schon gut, ich werde morgen wieder kommen und mit Ihnen sprechen.
+
+900
+01:06:22,120 --> 01:06:24,130
+Nein, es ist in Ordnung. Ich kann sprechen.
+
+901
+01:06:24,130 --> 01:06:26,130
+Aber ...
+
+902
+01:06:26,130 --> 01:06:29,130
+Ich will es nicht hinausschieben.
+
+903
+01:06:29,130 --> 01:06:32,130
+Ich habe verstanden.
+
+904
+01:06:32,130 --> 01:06:36,140
+Es geht um Sakis tatsächliche Mutter.
+
+905
+01:06:36,140 --> 01:06:41,140
+Sie war Chinesin und hielt sich illegal im Land auf und wurde vor 14 Jahren ermordet.
+
+906
+01:06:44,150 --> 01:06:46,150
+Davon haben Sie keine Kenntnis?
+
+907
+01:06:46,150 --> 01:06:52,150
+Uns wurde nichts über die wahren Eltern berichtet, als wir den Vertrag unterschrieben.
+
+908
+01:06:52,150 --> 01:06:58,150
+Auch wollte ich nichts über die Mutter wissen, die ihr Kind verkauft.
+
+909
+01:07:00,160 --> 01:07:04,170
+Saki-sans tatsächliche Mutter wurde mit einer Pistole erschossen.
+
+910
+01:07:04,170 --> 01:07:09,170
+Außerdem wurde mit der gleichen Pistole auch Ihr Ehemann erschossen.
+
+911
+01:07:09,170 --> 01:07:13,170
+Wir gehen von einer Verbindung zwischen den Gewalttaten aus.
+
+912
+01:07:13,170 --> 01:07:15,180
+Selbst wenn es nur ein kleiner Anhaltspunkt ist, möchte ich es wissen.
+
+913
+01:07:15,180 --> 01:07:19,180
+Tat Ihr Ehemann irgendetwas Verdächtiges?
+
+914
+01:07:22,120 --> 01:07:25,120
+Meine Güte!
+
+915
+01:07:25,120 --> 01:07:28,120
+Ah, hallo! Hallo!
+
+916
+01:07:35,130 --> 01:07:37,130
+Wer war das?
+
+917
+01:07:37,130 --> 01:07:39,130
+Du hast es gesehen?
+
+918
+01:07:41,140 --> 01:07:46,140
+Was sind das für Fotos? Das bin doch ich und Saki?
+
+919
+01:07:46,140 --> 01:07:49,140
+Sie hatte sie bei sich.
+
+920
+01:07:49,140 --> 01:07:52,140
+- Was geht da vor?
+- Keine Ahnung.
+
+921
+01:07:55,150 --> 01:07:57,150
+Sie wird die Mutter sein.
+
+922
+01:07:57,150 --> 01:07:59,150
+Hä?
+
+923
+01:07:59,150 --> 01:08:02,160
+Sie will ihr Kind wieder zurück. Warum?
+
+924
+01:08:02,160 --> 01:08:04,160
+Du hast gesagt, dass wir und nicht sorgen müssen!
+
+925
+01:08:04,160 --> 01:08:07,160
+- Beruhige dich! Es wird alles gut.
+- Was heißt, es wird alles gut?
+
+926
+01:08:07,160 --> 01:08:09,160
+Sie wird sie uns wegnehmen!
+
+927
+01:08:09,160 --> 01:08:13,170
+Das werde ich nicht zulassen. Sie wird nichts unternehmen.
+
+928
+01:08:13,170 --> 01:08:19,110
+Um Saki zu beschützen werde ich alles tun.
+
+929
+01:08:19,110 --> 01:08:21,110
+Geh mit Saki nach Hause.
+
+930
+01:08:21,110 --> 01:08:24,110
+Ja?
+
+931
+01:08:24,110 --> 01:08:27,110
+Und in dieser Nacht wurde Jolin ermordet.
+
+932
+01:08:27,110 --> 01:08:32,120
+Motoki glaubt, dass er durch seinen Diebstahl der Akten den Tod von Jolin verursacht hat.
+
+933
+01:08:32,120 --> 01:08:35,120
+Nozawa könnte ihn ermordet haben, um seine Tochter zu beschützen.
+
+934
+01:08:35,120 --> 01:08:40,130
+Zur damaligen Zeit lagen nicht viele Fakten zur unbekannten Leiche im Hachiôji-Fall vor.
+
+935
+01:08:40,130 --> 01:08:46,130
+Genau, damals wurde alles darangesetzt, den Mörder der Büroangestellten aus Shibuya-ku zu fassen.
+
+936
+01:08:46,130 --> 01:08:48,140
+Die Medien berichteten fast nur darüber.
+
+937
+01:08:48,140 --> 01:08:51,140
+Demzufolge könnte Nozawas Frau nichts von Jolins Tod bemerkt haben.
+
+938
+01:08:51,140 --> 01:08:55,140
+Und 14 Jahre später wurden Nozawa und Bandô ermordet.
+
+939
+01:08:55,140 --> 01:08:58,150
+Zweifellos hat Tachibana mit der Sache zu tun.
+
+940
+01:08:58,150 --> 01:09:01,150
+Was ist zwischen den Dreien vorgefallen?
+
+941
+01:09:01,150 --> 01:09:04,150
+Das DNA-Ergebnis liegt vor.
+
+942
+01:09:04,150 --> 01:09:07,150
+Jolin ist zweifellos die Mutter von Saki.
+
+943
+01:09:07,150 --> 01:09:09,160
+Dann war es Menschenhandel.
+
+944
+01:09:09,160 --> 01:09:12,160
+Wenn wir Tachibana festnehmen, werden wir den Grund für den Mord durch Brandstiftung erfahren.
+
+945
+01:09:12,160 --> 01:09:14,160
+Ich werde mich wieder auf die Suche nach Tachibana machen.
+
+946
+01:09:14,160 --> 01:09:16,180
+Bitte tue das.
+
+947
+01:09:16,180 --> 01:09:19,100
+Was?
+
+948
+01:09:19,100 --> 01:09:21,100
+Verstanden.
+
+949
+01:09:21,100 --> 01:09:23,100
+Sie haben Tachibana.
+
+950
+01:09:23,100 --> 01:09:26,110
+- Er soll zum Verhör hergebracht werden.
+- Es hat keinen Zweck.
+
+951
+01:09:26,110 --> 01:09:28,110
+Er ist tot.
+
+952
+01:09:30,110 --> 01:09:34,110
+Seine Leiche wurde in einem Geschäftshotel gefunden.
+
+953
+01:09:34,110 --> 01:09:37,120
+Er war angetrunken und ist offensichtlich beim Baden ertrunken
+
+954
+01:09:37,120 --> 01:09:40,120
+- Ein Unfalltod?
+- Das ist die Ursache?
+
+955
+01:09:40,120 --> 01:09:44,120
+Bei seinen persönlichen Sachen wurde eine Pistole entdeckt.
+
+956
+01:09:51,120 --> 01:09:57,120
+Ganz klar, das ist die Schusswaffe, die beim Hachiôji-Mord und beim Mord durch Brandstiftung benutzt wurde.
+
+957
+01:09:57,120 --> 01:10:00,130
+Die Waffe weist auch Tachibanas Fingerabdrücke auf.
+
+958
+01:10:00,130 --> 01:10:02,130
+Dann war es in beiden Fällen zweifellos Tachibana.
+
+959
+01:10:02,130 --> 01:10:04,130
+Der Gerichtsmediziner wird nicht das Gegenteil behaupten.
+
+960
+01:10:04,130 --> 01:10:06,130
+Erst die Übereinstimmung am Brandort und jetzt die Pistole.
+
+961
+01:10:06,130 --> 01:10:09,140
+Zweifellos muss Tachibana Nozawa und Bandô ermordet haben.
+
+962
+01:10:09,140 --> 01:10:12,140
+Nozawa und Bandô könnten Komplizen beim Mord an Jolin gewesen sein.
+
+963
+01:10:12,140 --> 01:10:15,140
+Dafür fehlen uns die Beweise und es wird schwer sein das zu beweisen.
+
+964
+01:10:15,140 --> 01:10:18,150
+Darüber hinaus gibt es kaum Beteiligte und der ungeklärte Fall liegt 14 Jahre zurück.
+
+965
+01:10:18,150 --> 01:10:20,150
+Und zudem ist der Hauptaugenmerk der Mord durch Brandstiftung.
+
+966
+01:10:20,150 --> 01:10:24,150
+Wenn der Tatverdächtige überführt ist, wird die Arbeitsgruppe aufgelöst.
+
+967
+01:10:24,150 --> 01:10:27,150
+Dann ist die Untersuchung vorbei.
+
+968
+01:10:27,150 --> 01:10:31,150
+Mit dem Tod des Verdächtigen sind die Untersuchungen abgeschlossen - und es bleiben Fragen offen.
+
+969
+01:10:39,170 --> 01:10:42,170
+Sakuragi, mach langsam klar Schiff.
+
+970
+01:10:42,170 --> 01:10:46,170
+Die Untersuchungen sind vorbei. Der Tatverdächtige in dem Fall ist tot.
+
+971
+01:10:48,110 --> 01:10:51,110
+- Es ist schon vorbei.
+- Und das schneller als ich dachte.
+
+972
+01:10:51,110 --> 01:10:53,110
+Dem stehe ich positiv gegenüber.
+
+973
+01:10:53,110 --> 01:10:55,110
+Dem kann ich nur zustimmen.
+
+974
+01:11:13,130 --> 01:11:17,140
+Du kannst dieses Ende nicht gutheißen.
+
+975
+01:11:17,140 --> 01:11:21,140
+Meine Vorgesetzten werden kein Verständnis dafür haben.
+
+976
+01:11:21,140 --> 01:11:25,140
+Auch habe ich keinen Grund das weiterzuverfolgen.
+
+977
+01:11:27,150 --> 01:11:33,150
+Als Führer bin ich vielleicht noch nicht geeignet.
+
+978
+01:11:33,150 --> 01:11:37,160
+Du hast außerordentliches Glück.
+
+979
+01:11:37,160 --> 01:11:39,160
+Was?
+
+980
+01:11:39,160 --> 01:11:44,160
+Du hast alles in deiner Macht Stehende getan und das ist nicht leicht.
+
+981
+01:11:44,160 --> 01:11:48,160
+Die Krawatte des Abteilungsleiters zu tragen ist schwierig.
+
+982
+01:11:51,100 --> 01:11:54,110
+Sagt man so.
+
+983
+01:11:54,110 --> 01:11:58,110
+Wenn die Untersuchung abgeschlossen ist, lade ich dich auf ein Getränk ein.
+
+984
+01:11:58,110 --> 01:12:02,120
+Ich bin froh mit dir zum ersten Mal zusammengearbeitet zu haben.
+
+985
+01:12:02,120 --> 01:12:09,120
+Und wenn ich könnte, würde ich mir jetzt einen guten Sake (Reiswein) gönnen.
+
+986
+01:12:09,120 --> 01:12:11,120
+Schönen Feierabend!
+
+987
+01:12:26,140 --> 01:12:30,140
+Deine Tochter wird sich einsam fühlen, wenn du noch so spät arbeitest.
+
+988
+01:12:30,140 --> 01:12:32,140
+Schönen Feierabend, Abteilungsleiter!
+
+989
+01:12:34,150 --> 01:12:38,150
+Irgendetwas bedrückt dich? Ich habe gehört, dass der Fall abgeschlossen ist.
+
+990
+01:12:38,150 --> 01:12:42,150
+Ich kenne immer noch nicht den Grund für den Mord durch Brandstiftung.
+
+991
+01:12:42,160 --> 01:12:45,160
+Die Wahrheit ist irgendwo da draußen verborgen.
+
+992
+01:12:45,160 --> 01:12:55,100
+Verstehe. Wie glaubst du wird Fukazawa darauf reagieren?
+
+993
+01:12:55,100 --> 01:12:59,110
+Fukazawa macht sich Kopfzerbrechen darüber.
+
+994
+01:12:59,110 --> 01:13:04,110
+Glaubst du sein Vorgesetzter will Fukazawa überzeugen seinen Weg einzuschlagen?
+
+995
+01:13:04,110 --> 01:13:07,110
+Was glaubst du?
+
+996
+01:13:07,110 --> 01:13:13,120
+Ich bin nicht der Fukazawa vertrauen muss, abgesehen davon bin ich nicht sein Leiter.
+
+997
+01:13:13,120 --> 01:13:16,120
+Seit ihr nicht die vor Ort sind?
+
+998
+01:13:29,140 --> 01:13:32,140
+Hallo, Neuling! Du bist gekommen.
+
+999
+01:13:32,140 --> 01:13:36,140
+Ich wollte Sie heute nur sehen.
+
+1000
+01:13:36,140 --> 01:13:40,150
+Ich dachte vom Fahndungshauptquartier wurde der Fall beendet.
+
+1001
+01:13:40,150 --> 01:13:43,150
+Stimmt.
+
+1002
+01:13:43,150 --> 01:13:46,150
+Was wird wohl aus unserer bisherigen Untersuchung?
+
+1003
+01:13:46,150 --> 01:13:51,090
+Saki-chan haben wir verletzt und der Verdächtige ist tot.
+
+1004
+01:13:51,090 --> 01:13:55,100
+Wir können das nicht auf sich beruhen lassen.
+
+1005
+01:13:55,100 --> 01:14:01,100
+Auch wenn die Arbeit fortgesetzt wird, kann es trotzdem ein Fehlschlag werden.
+
+1006
+01:14:01,100 --> 01:14:07,100
+Wenn das einen Kriminaler abschreckt, wie soll dieser dann unter die Augen der Hinterbliebenen treten?
+
+1007
+01:14:12,110 --> 01:14:15,120
+Sakuragi.
+
+1008
+01:14:15,120 --> 01:14:25,130
+Zwischen einem ungeklärten Fall und einem aktuellen Fall direkt vor seiner Nase besteht kein Unterschied.
+
+1009
+01:14:25,130 --> 01:14:28,130
+Jeder will den Fall gelöst sehen.
+
+1010
+01:14:28,130 --> 01:14:33,130
+Und jeder ermittelt, damit der Fall nicht zu den Akten gelegt wird.
+
+1011
+01:14:33,130 --> 01:14:40,140
+Wenn du es von einem anderen Standpunkt aus betrachtest, verstehst du sie vielleicht.
+
+1012
+01:14:40,140 --> 01:14:45,150
+Aber manche Dinge lassen sich nicht ändern.
+
+1013
+01:14:45,150 --> 01:14:47,160
+Du musst den anderen vertrauen.
+
+1014
+01:14:47,160 --> 01:14:51,160
+Ich muss eurem Handeln auch vertrauen.
+
+1015
+01:14:58,090 --> 01:15:00,090
+Ja.
+
+1016
+01:15:15,000 --> 01:15:20,000
+Diese Sendung wurde Ihnen von den hier verzeichneten Sponsoren präsentiert.
+
+1017
+01:15:29,910 --> 01:15:39,920
+Im Fall des Mordes durch Brandstiftung werden wir die Medien vom Tod unseres Verdächtigen Tachibana Ryûichi unterrichten.
+
+1018
+01:15:39,920 --> 01:15:42,920
+Ich danke Ihnen allen für die Lösung des Falles.
+
+1019
+01:15:42,920 --> 01:15:46,930
+Einen Moment bitte! Der Fall ist noch nicht abgeschlossen!
+
+1020
+01:15:46,930 --> 01:15:49,930
+Wir kennen die Hintergründe zum Mord durch Brandstiftung nicht.
+
+1021
+01:15:49,930 --> 01:15:53,940
+Wir haben eindeutige Beweise gegen Tachibana. Das reicht voll aus den Fall zu schließen.
+
+1022
+01:15:53,940 --> 01:15:55,940
+Besteht nicht auch die Möglichkeit, dass Minister Mihara involviert ist?
+
+1023
+01:15:55,940 --> 01:15:58,940
+Vielleicht ermordete er ihn, um ihn zum Schweigen zu bringen?
+
+1024
+01:15:58,940 --> 01:16:01,940
+Es liegt kein Beweis gegen den Minister vor.
+
+1025
+01:16:01,940 --> 01:16:04,950
+Außerdem wissen wir nicht, wie das mit dem Hachiôji-Fall zusammenhängt.
+
+1026
+01:16:04,950 --> 01:16:08,950
+Gegenstand unserer Untersuchung war klar der Mord durch Brandstiftung.
+
+1027
+01:16:08,950 --> 01:16:13,960
+Wir überlassen der Sonderabteilung in der Hachiôji-Angelegenheit die weiteren Ermittlungen.
+
+1028
+01:16:13,960 --> 01:16:18,960
+Ich muss zu einer weiteren Besprechung. Sie haben sich gut geschlagen.
+
+1029
+01:16:18,960 --> 01:16:20,960
+Ich danke Ihnen!
+
+1030
+01:16:20,960 --> 01:16:22,960
+Vielen Dank!
+
+1031
+01:16:27,970 --> 01:16:29,970
+Warten Sie bitte!
+
+1032
+01:16:31,910 --> 01:16:33,910
+Wir werden die Untersuchungen fortsetzen.
+
+1033
+01:16:36,910 --> 01:16:39,910
+Was haben Sie vor, Fukazawa?
+
+1034
+01:16:39,910 --> 01:16:41,920
+Entschuldigen Sie bitte!
+
+1035
+01:16:41,920 --> 01:16:47,920
+Bis wir nicht alle noch offenen Fragen geklärt haben, können wir die Untersuchungen nicht abschließen.
+
+1036
+01:16:47,920 --> 01:16:50,920
+Wissen Sie eigentlich, was Sie da tun?
+
+1037
+01:16:53,930 --> 01:16:55,930
+Das ist nicht bindend.
+
+1038
+01:16:55,930 --> 01:16:59,930
+Jeder Ermittler, der mich unterstützen will kann bleiben.
+
+1039
+01:17:14,950 --> 01:17:18,950
+Von meiner Untersuchungsmannschaft haben alle zugestimmt.
+
+1040
+01:17:29,900 --> 01:17:33,900
+Da sind mehr Idioten dabei, als ich dachte.
+
+1041
+01:17:33,900 --> 01:17:36,900
+Was bezwecken Sie damit? Ich kann Sie nicht weiter beschützen.
+
+1042
+01:17:41,910 --> 01:17:45,910
+Dann lasst uns neue Mannschaften zusammenstellen.
+
+1043
+01:17:47,920 --> 01:17:49,920
+Sakuragi.
+
+1044
+01:17:49,920 --> 01:17:53,920
+Suche die Unterlagen zusammen. Das ist eine neue Aussage von Motoki.
+
+1045
+01:17:53,920 --> 01:17:55,920
+Gut.
+
+1046
+01:17:58,930 --> 01:18:04,930
+Zeuge Yamamoto Motoki.
+
+1047
+01:18:06,930 --> 01:18:13,940
+Chan Jolin beobachtete oft heimlich das Baby Nozawa Saki und seine Mutter im Nishinomori-Park.
+
+1048
+01:18:16,940 --> 01:18:18,940
+Der Nishinomori-Park?
+
+1049
+01:18:27,960 --> 01:18:29,890
+Da ist es.
+
+1050
+01:18:29,890 --> 01:18:36,900
+Nozawa Seiji wurde oft im Nishinomori-Park gesehen und auch einige Tage vor seinem Tod.
+
+1051
+01:18:36,900 --> 01:18:39,900
+Derselbe Park.
+
+1052
+01:18:39,900 --> 01:18:42,900
+Warum war Nozawa Seiji dort?
+
+1053
+01:18:44,300 --> 01:18:46,300
+(Nishinomori-Park)
+
+1054
+01:18:46,910 --> 01:18:49,910
+Der Augenzeugenbericht zu Nozawa Seiji.
+
+1055
+01:18:49,910 --> 01:18:52,910
+Zunächst das Blumenbeet am Sportgelände.
+
+1056
+01:19:05,930 --> 01:19:09,930
+Nozawa Seiji saß auf dieser Bank.
+
+1057
+01:19:53,910 --> 01:19:56,910
+Hier ebenfalls.
+
+1058
+01:19:56,910 --> 01:20:00,920
+An diesem Ort entdeckte Jolin Saki-chan.
+
+1059
+01:20:37,890 --> 01:20:43,890
+Nozawa Seiji rekonstruierte Jolins heimlichen Weg, den sie einschlug, um Saki-chan zu beobachten.
+
+1060
+01:20:45,890 --> 01:20:47,900
+Nur warum?
+
+1061
+01:21:06,910 --> 01:21:09,920
+Bis hierher geht der Bericht.
+
+1062
+01:21:13,300 --> 01:21:16,300
+(Seidenstraße)
+
+1063
+01:21:30,870 --> 01:21:33,870
+Ah!
+
+1064
+01:21:33,870 --> 01:21:36,880
+Seepferdchen.
+
+1065
+01:21:36,880 --> 01:21:40,880
+- Ein Geschenk?
+- Was?
+
+1066
+01:21:40,880 --> 01:21:45,890
+Das ist ein Talisman.
+
+1067
+01:21:45,890 --> 01:21:47,890
+Von schwangeren Frauen wird es oft gekauft.
+
+1068
+01:21:47,890 --> 01:21:51,890
+Darin befindet sich ein Seepferdchen.
+
+1069
+01:21:57,900 --> 01:22:03,900
+In den verbrannten Überresten von Nozawa Seiji fanden wir weiter einen Stofffetzen mit Spuren eines Seepferdchens.
+
+1070
+01:22:03,900 --> 01:22:05,910
+Ein Talisman.
+
+1071
+01:22:05,910 --> 01:22:10,910
+Seepferdchen sollen eine leichte Geburt bringen und Glück verheißen.
+
+1072
+01:22:10,910 --> 01:22:14,920
+Ich beziehe sie direkt von der Quelle. Sie sind wirklich schön.
+
+1073
+01:22:14,920 --> 01:22:19,920
+Eine leichte Geburt und Glück? Selbst für ein gekauftes Baby?
+
+1074
+01:22:21,920 --> 01:22:23,920
+- Entschuldigung!
+- Ja?
+
+1075
+01:22:23,920 --> 01:22:25,920
+Erinnern Sie sich an die beiden?
+
+1076
+01:22:27,930 --> 01:22:31,870
+Nun, an den Mann erinnere ich mich.
+
+1077
+01:22:31,870 --> 01:22:33,870
+War er hier gewesen?
+
+1078
+01:22:33,870 --> 01:22:36,870
+Er versuchte jemanden zu finden.
+
+1079
+01:22:36,870 --> 01:22:42,880
+Er fragte nach einer Frau, die vor 14 Jahren einen Talisman hier kaufte.
+
+1080
+01:22:42,880 --> 01:22:46,880
+Ich sagte ihm, dass ich nach so langer Zeit mich nicht mehr erinnern kann.
+
+1081
+01:22:48,880 --> 01:22:50,880
+Er war auf der Suche nach Jolin.
+
+1082
+01:22:52,890 --> 01:22:55,890
+Nozawa Seiji hatte nichts mit dem Mord an Jolin zu schaffen.
+
+1083
+01:22:55,890 --> 01:22:57,890
+Was meinst du?
+
+1084
+01:22:57,890 --> 01:23:00,900
+"Vor seinem Tod suchte er nach Jolin."
+
+1085
+01:23:00,900 --> 01:23:03,900
+Du weißt, dass er sie nicht ermordete?
+
+1086
+01:23:03,900 --> 01:23:05,900
+- Richtig.
+- Entschuldigung!
+
+1087
+01:23:05,900 --> 01:23:08,900
+Ach, ich rufe gleich zurück. Bitte?
+
+1088
+01:23:08,900 --> 01:23:12,910
+Mir ist inzwischen etwas eingefallen.
+
+1089
+01:23:12,910 --> 01:23:17,910
+Nach dem der Mann meinen Laden verlassen hatte, war ich spazieren.
+
+1090
+01:23:17,910 --> 01:23:20,920
+Ich sah ihn vor dem Museum stehen.
+
+1091
+01:23:20,920 --> 01:23:23,920
+Es schien so, als ob er sich mit jemanden stritt.
+
+1092
+01:23:23,920 --> 01:23:25,920
+Das ist alles.
+
+1093
+01:23:34,800 --> 01:23:37,800
+(Nishinomori-Kunstmuseum)
+
+1094
+01:23:48,880 --> 01:23:50,880
+Da ist eine.
+
+1095
+01:24:01,890 --> 01:24:05,890
+Kannst du auf diesem unscharfen Bild auch etwas erkennen?
+
+1096
+01:24:05,890 --> 01:24:08,900
+Wenn wir genügend Merkmalspunkte haben, können wir ihn auch identifizieren.
+
+1097
+01:24:08,900 --> 01:24:12,900
+Das ist ja Wahnsinn!
+
+1098
+01:24:12,900 --> 01:24:16,900
+Ohne Zweifel ist das Nozawa Seiji.
+
+1099
+01:24:16,900 --> 01:24:18,910
+Wer ist die andere Person?
+
+1100
+01:24:18,910 --> 01:24:21,910
+Das würde an ein Wunder grenzen, diese zu bestimmen.
+
+1101
+01:24:21,910 --> 01:24:23,910
+Ein Wunder?
+
+1102
+01:24:23,910 --> 01:24:27,920
+Wenn du kurz davor stehst, wird es verschwinden!
+
+1103
+01:24:27,920 --> 01:24:29,850
+Zurück! Los, zurück!
+
+1104
+01:24:29,850 --> 01:24:34,850
+Willkommen, Sakuragi! Wieso willst du nicht hier bleiben, bis das Wunder eintritt?
+
+1105
+01:24:34,860 --> 01:24:37,860
+- Nein, das ist nicht ...
+- Hm? Hm?
+
+1106
+01:24:37,860 --> 01:24:41,860
+Das Wunder ist tatsächlich eingetreten!
+
+1107
+01:24:46,300 --> 01:24:51,300
+Diese Sendung wird Ihnen von den hier verzeichneten Sponsoren präsentiert.
+
+1108
+01:24:53,900 --> 01:24:56,900
+Das sind Aufnahmen von Nozawa Seiji, nur einige Stunden vor dem Mord.
+
+1109
+01:24:56,900 --> 01:25:00,900
+Diese stammen von einer Überwachungskamera am Nishinomori-Park.
+
+1110
+01:25:00,900 --> 01:25:05,910
+Einer ist Nozawa Seiji und der andere sind Sie.
+
+1111
+01:25:05,910 --> 01:25:11,910
+Nachdem Nozawa Seiji bei Ihnen war, wurde er ermordet.
+
+1112
+01:25:11,920 --> 01:25:15,920
+Es gibt eine Verbindung zu Bandô und jetzt haben wir noch eine zu Nozawa.
+
+1113
+01:25:15,920 --> 01:25:18,920
+Sie sind in den Fall verwickelt, nicht wahr?
+
+1114
+01:25:20,920 --> 01:25:24,930
+Sie haben mir also nicht zugehört.
+
+1115
+01:25:24,930 --> 01:25:26,930
+Das ist nicht richtig.
+
+1116
+01:25:26,930 --> 01:25:29,930
+Ich achte Ihre Stellung. Ich bin ebenfalls angesehen.
+
+1117
+01:25:29,930 --> 01:25:32,940
+Aber Sie verdächtigen mich weiterhin.
+
+1118
+01:25:32,940 --> 01:25:35,940
+Ich bin auf alles gefasst.
+
+1119
+01:25:37,940 --> 01:25:44,940
+Minister Mihara, Sie sollten uns die Wahrheit sagen und sich auf die Konsequenzen gefasst machen.
+
+1120
+01:25:49,950 --> 01:25:56,890
+Bei meinem Sohn ist es genauso wie bei Nozawa-sans Tochter.
+
+1121
+01:25:56,890 --> 01:25:58,890
+Sie haben ihn von Bandô erworben?
+
+1122
+01:26:00,900 --> 01:26:04,900
+So bin ich auf Nozawa-san gestoßen.
+
+1123
+01:26:04,900 --> 01:26:09,900
+Er war ein Gleichgesinnter und verstand auch was ich durchmachte.
+
+1124
+01:26:11,910 --> 01:26:14,910
+Ihm war eiskalt vor Schrecken.
+
+1125
+01:26:14,910 --> 01:26:19,920
+Mir war zu Ohren gekommen, dass die leibliche Mutter seiner Tochter aufkreuzen wollte.
+
+1126
+01:26:19,920 --> 01:26:27,920
+Ich hatte Angst, dass auch die leiblichen Eltern meines Sohnes hineingezogen werden.
+
+1127
+01:26:29,930 --> 01:26:32,930
+Wissen Sie was da vor sich geht?
+
+1128
+01:26:32,930 --> 01:26:34,930
+Sie sagten, dass es absolut sicher ist!
+
+1129
+01:26:34,930 --> 01:26:37,940
+Mihara-sensei, sorgen Sie sich nicht.
+
+1130
+01:26:37,940 --> 01:26:39,940
+Glauben Sie etwa, dass ich Ihnen traue?
+
+1131
+01:26:39,940 --> 01:26:41,940
+Die richtige Mutter sucht nach ihrem Kind!
+
+1132
+01:26:41,940 --> 01:26:43,940
+Bitte beruhigen Sie sich.
+
+1133
+01:26:43,940 --> 01:26:46,940
+Und jetzt sagen Sie mir, dass ich mich beruhigen soll!
+
+1134
+01:26:46,940 --> 01:26:50,950
+Was wenn die richtige Mutter meines Kindes auch auftaucht?
+
+1135
+01:26:50,950 --> 01:26:53,880
+- Es ist fast an der Zeit.
+- Hören Sie mir eigentlich zu?
+
+1136
+01:26:53,880 --> 01:26:55,890
+Wissen Sie eigentlich wer ich bin?
+
+1137
+01:26:55,890 --> 01:26:57,890
+Er ist hier.
+
+1138
+01:27:01,890 --> 01:27:04,890
+Entschuldigung, es gab einige unerwartete Unannehmlichkeiten.
+
+1139
+01:27:08,900 --> 01:27:13,900
+- Ist das die biologische Mutter von Nozawa-sans Kind?
+- Was?
+
+1140
+01:27:18,910 --> 01:27:23,910
+Ihr Tod wird den anderen Müttern eine Lehre sein.
+
+1141
+01:27:23,910 --> 01:27:26,910
+Sie wissen was Ihnen dann blüht, wenn sie ihre Kinder aufspüren.
+
+1142
+01:27:33,920 --> 01:27:37,930
+Sie haben den Tod  von Chan Jolin 14 Jahre lang geheimgehalten?
+
+1143
+01:27:37,930 --> 01:27:40,930
+- Dass nur um Ihr Ansehen zu retten.
+- Das stimmt nicht.
+
+1144
+01:27:40,930 --> 01:27:43,930
+Sie haben immer noch eine Ausrede?
+
+1145
+01:27:45,940 --> 01:27:47,940
+Ich hatte Angst.
+
+1146
+01:27:50,940 --> 01:27:53,940
+Ich hatte Angst, dass sie mir meinen Sohn nehmen.
+
+1147
+01:27:55,880 --> 01:27:57,880
+Für zehn Jahre.
+
+1148
+01:28:00,880 --> 01:28:02,880
+Wir waren in Unfruchtbarkeitsbehandlung für zehn Jahre.
+
+1149
+01:28:04,890 --> 01:28:09,890
+Meine Frau und ich haben alles in unserer Macht Stehende versucht.
+
+1150
+01:28:09,890 --> 01:28:11,890
+Einfach alles.
+
+1151
+01:28:14,900 --> 01:28:17,900
+Trotzdem wurden wir nicht mit einem Kind gesegnet.
+
+1152
+01:28:25,910 --> 01:28:28,910
+Schließlich fanden wir eine Familie.
+
+1153
+01:28:28,910 --> 01:28:32,920
+Meine Frau und ich liebten ihn über alles.
+
+1154
+01:28:32,920 --> 01:28:35,920
+Wir beschützten ihn.
+
+1155
+01:28:35,920 --> 01:28:37,920
+Verstehen Sie mich?
+
+1156
+01:28:39,920 --> 01:28:44,920
+Das tut nichts zur Sache, Ihr Verhalten war kriminell.
+
+1157
+01:28:53,870 --> 01:28:57,870
+Und wieso trafen Sie sich mit Nozawa Seiji unmittelbar vor dem Mord?
+
+1158
+01:29:05,810 --> 01:29:07,810
+Sakuragi, man sieht deine Nasenhaare.
+
+1159
+01:29:07,810 --> 01:29:10,810
+Was? Jetzt echt?
+
+1160
+01:29:10,810 --> 01:29:12,820
+Dummkopf! Das war ein Scherz.
+
+1161
+01:29:12,820 --> 01:29:15,820
+Ah, mach nicht so ein böses Gesicht.
+
+1162
+01:29:15,820 --> 01:29:18,820
+Entspann deine Schultern.
+
+1163
+01:29:18,820 --> 01:29:20,820
+Entschuldigung.
+
+1164
+01:29:20,820 --> 01:29:24,830
+Ich denke gerade über Saki-chans Verhalten nach, nachdem sie das von Nozawa erfuhr.
+
+1165
+01:29:24,830 --> 01:29:27,830
+Aber nichts ...
+
+1166
+01:29:27,830 --> 01:29:32,840
+Es ist schwer zu erschließen, wie die Stimmung bei den Hinterbliebenen sein wird.
+
+1167
+01:29:32,840 --> 01:29:34,840
+Selbstverständlich.
+
+1168
+01:29:34,840 --> 01:29:40,840
+Wenn du es jedoch wissen willst, musst du in deren Fußstapfen treten.
+
+1169
+01:29:58,860 --> 01:30:00,860
+Was ist los?
+
+1170
+01:30:00,860 --> 01:30:03,880
+Ah ...
+
+1171
+01:30:03,880 --> 01:30:07,810
+Wir haben über deinen Vater etwas in Erfahrung gebracht.
+
+1172
+01:30:07,810 --> 01:30:10,810
+Das will ich nicht hören.
+
+1173
+01:30:10,810 --> 01:30:12,810
+Ich möchte, dass du zuhörst.
+
+1174
+01:30:15,810 --> 01:30:17,810
+Für deinen Vater.
+
+1175
+01:30:20,820 --> 01:30:26,820
+Wie beabsichtigen Sie Saki-sans leibliche Mutter ausfindig zu machen?
+
+1176
+01:30:26,820 --> 01:30:29,830
+Sie waren schon vielmals bei Doktor Bandô.
+
+1177
+01:30:29,830 --> 01:30:31,830
+Er würde mir den Aufenthaltsort nicht nennen.
+
+1178
+01:30:31,830 --> 01:30:34,830
+Somit werden Sie sie im Park auch nicht finden.
+
+1179
+01:30:34,830 --> 01:30:36,830
+Sie haben sie vor 14 Jahren nur ein einziges Mal gesehen.
+
+1180
+01:30:36,830 --> 01:30:39,840
+Um Saki aber helfen zu können, muss ich sie finden.
+
+1181
+01:30:39,840 --> 01:30:40,840
+Aber ...
+
+1182
+01:30:40,840 --> 01:30:42,840
+Es gibt sonst keinen anderen Spender.
+
+1183
+01:30:42,840 --> 01:30:46,840
+Weder meine Familie, noch Bekannte und Freunde können spenden.
+
+1184
+01:30:49,850 --> 01:30:53,850
+Weiß Ihre Ehefrau darüber Bescheid.
+
+1185
+01:30:53,850 --> 01:30:59,860
+Hideko würde als Sakis Mutter alles tun.
+
+1186
+01:30:59,860 --> 01:31:03,830
+Sie würde es aber leugnen.
+
+1187
+01:31:03,830 --> 01:31:05,700
+Dann sollten Sie es sein lassen.
+
+1188
+01:31:05,700 --> 01:31:09,700
+Sie wissen nicht genau, ob das Knochenmark der tatsächlichen Mutter mit der von Ihrer Tochter übereinstimmt.
+
+1189
+01:31:09,700 --> 01:31:11,700
+Soll ich nichtstuend abwarten bis ein Spender auftaucht?
+
+1190
+01:31:11,700 --> 01:31:13,700
+Und Sie nennen sich einen Vater?
+
+1191
+01:31:13,700 --> 01:31:16,710
+Diese Mutter hat ihre Tochter, ihr eigen Blut verkauft!
+
+1192
+01:31:16,710 --> 01:31:19,710
+Sie war im Besitz vieler Fotos von ihr.
+
+1193
+01:31:19,710 --> 01:31:21,710
+Ich weiß wo sie sie geschossen hat.
+
+1194
+01:31:21,710 --> 01:31:24,720
+Außerdem weiß ich, was dieser Glücksbringer bedeutet.
+
+1195
+01:31:24,720 --> 01:31:27,720
+Sie würde sie retten.
+
+1196
+01:31:27,720 --> 01:31:31,720
+Ich weiß noch dieses Weinen vor 14 Jahren ...
+
+1197
+01:31:39,730 --> 01:31:43,730
+Mihara-san, wollen Sie Doktor Bandô nicht fragen?
+
+1198
+01:31:43,730 --> 01:31:51,740
+Wenn ich sie finden sollte, kann ich den echten Vater oder die Familie ausfindig machen, um ihr zu helfen.
+
+1199
+01:31:51,740 --> 01:31:53,740
+Ich muss ablehnen.
+
+1200
+01:31:53,740 --> 01:31:56,750
+Ich bitte Sie!
+
+1201
+01:31:56,750 --> 01:31:59,750
+Ich will bloß die tatsächliche Mutter.
+
+1202
+01:32:01,750 --> 01:32:05,750
+Was Sie auch versuchen, es ist vergebens.
+
+1203
+01:32:08,790 --> 01:32:12,800
+Was wollen Sie damit sagen?
+
+1204
+01:32:12,800 --> 01:32:18,800
+Vor 14 Jahren wurde sie direkt vor meinen Augen ermordet.
+
+1205
+01:32:20,800 --> 01:32:24,810
+Dein Vater war auf der Suche nach deiner tatsächlichen Mutter.
+
+1206
+01:32:24,810 --> 01:32:28,810
+Er suchte Chan Jolin, eine Chinesin.
+
+1207
+01:32:28,810 --> 01:32:30,810
+Er tat es für dich.
+
+1208
+01:32:32,820 --> 01:32:36,820
+Auch nach dem er erfuhr, dass Jolin bereits tot war, gab er nicht auf.
+
+1209
+01:32:36,820 --> 01:32:42,820
+Er war in der Klinik, in der du zur Welt gekommen bist, als das Unglück geschehen ist.
+
+1210
+01:32:44,830 --> 01:32:51,830
+Als Grund nannte er seine Arbeit, um Sie nicht zu verletzen.
+
+1211
+01:32:58,840 --> 01:33:03,840
+Dein Vater hat das nicht getan, um dich zu hintergehen.
+
+1212
+01:33:05,780 --> 01:33:11,790
+Er hat im Verborgenen auf dich aufgepasst.
+
+1213
+01:33:11,790 --> 01:33:14,790
+Er versuchte alles damit du keine Sorgen haben musst.
+
+1214
+01:33:29,810 --> 01:33:34,810
+In diesem Talisman steckt ein getrocknetes Seepferdchen.
+
+1215
+01:33:36,810 --> 01:33:41,810
+Das Seepferdchen soll eine leichte Geburt bringen und Glück verheißen.
+
+1216
+01:33:43,820 --> 01:33:47,820
+Dein Vater und Jolin-san hatten beide eins.
+
+1217
+01:33:50,830 --> 01:33:56,830
+Und beide wünschten dir alles Glück.
+
+1218
+01:34:03,860 --> 01:34:06,780
+Zu Anfang wird es dich vielleicht traurig stimmen.
+
+1219
+01:34:06,780 --> 01:34:12,780
+Aber beide waren ein Teil deines Lebens.
+
+1220
+01:34:14,790 --> 01:34:17,790
+Also vergiss sie nicht.
+
+1221
+01:34:19,790 --> 01:34:21,790
+Dann soll ich ihnen vergeben?
+
+1222
+01:34:27,800 --> 01:34:32,800
+Sie entschieden sich für Reue und wurden ermordet.
+
+1223
+01:34:35,810 --> 01:34:37,810
+Grausam.
+
+1224
+01:34:45,820 --> 01:34:48,820
+Ich will leben.
+
+1225
+01:34:52,820 --> 01:34:56,830
+Ich werde nicht in den Himmel aufsteigen.
+
+1226
+01:34:56,830 --> 01:35:02,830
+Ich werde die beiden jetzt noch nicht sehen.
+
+1227
+01:35:09,770 --> 01:35:11,770
+Ich lebe weiter.
+
+1228
+01:35:15,780 --> 01:35:19,780
+Irgendwann werde ich ihnen vergeben können.
+
+1229
+01:35:23,790 --> 01:35:25,790
+Das würde ich dir gerne glauben.
+
+1230
+01:37:01,820 --> 01:37:06,760
+Der Mord durch Brandstiftung als auch Hachiôji-Fall wurden von Tachibana begangen.
+
+1231
+01:37:06,760 --> 01:37:08,760
+Der Menschenhandel wurde verschleiert.
+
+1232
+01:37:08,760 --> 01:37:13,760
+Weder Nozawa noch Minister Mihara waren darin verstrickt.
+
+1233
+01:37:13,760 --> 01:37:16,770
+Ich verstehe.
+
+1234
+01:37:16,770 --> 01:37:18,770
+Ein unglaubliches Resultat.
+
+1235
+01:37:18,770 --> 01:37:21,770
+Sowohl für uns als auch für Nozawa Saki.
+
+1236
+01:37:21,770 --> 01:37:23,770
+Ja.
+
+1237
+01:37:23,770 --> 01:37:30,780
+Jedoch wissen wir nicht, warum Tachibana es für nötig empfunden hat Bandô zu ermorden.
+
+1238
+01:37:32,780 --> 01:37:34,780
+Entschuldige bitte.
+
+1239
+01:37:37,790 --> 01:37:39,790
+Hallo! Was gibt's Ômori?
+
+1240
+01:37:39,790 --> 01:37:43,790
+Auf Tachibanas Waffe konnten wir geringe Mengen Schweiß nachweisen.
+
+1241
+01:37:43,790 --> 01:37:47,800
+Das ist neu für uns und wir führen gerade einen DNA-Test durch.
+
+1242
+01:37:47,800 --> 01:37:51,800
+Du willst mir damit sagen, dass neben Tachibana noch jemand anderes beteiligt ist?
+
+1243
+01:37:51,800 --> 01:37:55,810
+"Aber die Person ist bisher nicht in Erscheinung getreten."
+
+1244
+01:37:55,810 --> 01:37:57,810
+Ihr habt keine Hinweise?
+
+1245
+01:37:57,810 --> 01:38:00,810
+Bloß eine Sache.
+
+1246
+01:38:00,810 --> 01:38:03,830
+Das Sexualchromosom X.
+
+1247
+01:38:03,830 --> 01:38:05,750
+Kurz gesagt eine Frau.
+
+1248
+01:38:05,750 --> 01:38:07,750
+Eine Frau?
+
+1249
+01:38:11,760 --> 01:38:16,760
+Wir werden uns etwas zurückziehen, damit Saki das Geschehene verarbeiten kann.
+
+1250
+01:38:16,760 --> 01:38:19,760
+Ja.
+
+1251
+01:38:19,760 --> 01:38:22,770
+Entschuldigung!
+
+1252
+01:38:22,770 --> 01:38:26,770
+Hallo! Ah, Vorsteher.
+
+1253
+01:38:26,770 --> 01:38:29,770
+Bitte? Eine Frau?
+
+1254
+01:38:29,770 --> 01:38:31,780
+Mihara weiß davon nichts?
+
+1255
+01:38:31,780 --> 01:38:33,780
+Verstanden, wir werden das überprüfen.
+
+1256
+01:38:33,780 --> 01:38:36,780
+- Also dann ...!
+- Nozawa-san.
+
+1257
+01:38:36,780 --> 01:38:41,790
+Erinnern Sie sich an eine beteiligte Frau, als Sie Ihr Baby kauften?
+
+1258
+01:38:41,790 --> 01:38:44,790
+Eine Frau?
+
+1259
+01:38:44,790 --> 01:38:47,790
+Was ist los?
+
+1260
+01:38:47,790 --> 01:38:54,800
+Jetzt da Sie es sagen ...
+
+1261
+01:38:54,800 --> 01:38:57,800
+Ah, Saki!
+
+1262
+01:39:01,810 --> 01:39:06,810
+Dass wir jetzt so glücklich sind hätte ich nie gedacht, als wir von dieser Möglichkeit erfahren haben.
+
+1263
+01:39:06,810 --> 01:39:09,810
+Ich danke Ihnen vielmals!
+
+1264
+01:39:09,810 --> 01:39:13,810
+Werden Sie eine glückliche Familie!
+
+1265
+01:39:15,820 --> 01:39:18,820
+Wie geht's Ihnen?
+
+1266
+01:39:18,820 --> 01:39:21,830
+Hatakeyama-san, wenn Sie bei mir sind fühle ich mich viel besser.
+
+1267
+01:39:21,830 --> 01:39:26,830
+Ich bin froh, dass Sie sich in das Krankenhaus versetzen lassen konnten.
+
+1268
+01:39:26,830 --> 01:39:29,830
+Das freut mich von Ihnen zu hören.
+
+1269
+01:39:29,830 --> 01:39:31,830
+Also, ich werde messen.
+
+1270
+01:39:33,840 --> 01:39:36,840
+Hatakeyama-san, ist etwas passiert?
+
+1271
+01:39:36,840 --> 01:39:38,840
+Sie werden an der Rezeption verlangt.
+
+1272
+01:39:38,840 --> 01:39:41,850
+Die Polizei möchte mit Ihnen sprechen.
+
+1273
+01:39:41,850 --> 01:39:46,850
+Die Polizei? Warum das denn? Danke!
+
+1274
+01:39:46,850 --> 01:39:48,850
+Keine Ursache. Tschüss!
+
+1275
+01:39:51,860 --> 01:39:53,860
+Ich werde in der Schwesternstation suchen.
+
+1276
+01:39:53,860 --> 01:39:56,860
+Und ich werde in dem Stockwerk suchen.
+
+1277
+01:40:14,810 --> 01:40:16,810
+Feuerzeug.
+
+1278
+01:40:36,830 --> 01:40:39,840
+Wieso haben Sie Sakis Mutter ermordet?
+
+1279
+01:40:39,840 --> 01:40:42,840
+Ich war in Begriff einen Befehl zu erteilen.
+
+1280
+01:40:51,850 --> 01:40:55,850
+Der Vater? Wo ist Sakis Vater?
+
+1281
+01:40:55,850 --> 01:40:58,860
+Den Vater kenne ich von keinem Kind.
+
+1282
+01:40:58,860 --> 01:41:01,860
+Sie haben ein Kind von uns gekauft. Es ist besser, wenn keiner davon etwas weiß.
+
+1283
+01:41:01,860 --> 01:41:02,860
+Das ist kein Scherz!
+
+1284
+01:41:02,860 --> 01:41:04,790
+- Heh!
+- Was soll aus Saki werden?
+
+1285
+01:41:04,790 --> 01:41:06,800
+Vergeben Sie mir!
+
+1286
+01:41:06,800 --> 01:41:10,800
+Fahren Sie zur Hölle! Das ist Ihre Schuld!
+
+1287
+01:41:10,800 --> 01:41:12,800
+Ahh!
+
+1288
+01:41:19,810 --> 01:41:25,810
+Los, machen Sie auf, Bandô! Raus da!
+
+1289
+01:41:35,830 --> 01:41:38,830
+Was soll mit Doktor Bandô geschehen?
+
+1290
+01:41:38,830 --> 01:41:40,830
+Das können wir uns sparen.
+
+1291
+01:41:40,830 --> 01:41:43,830
+Er hinterlässt nur eine Spur zu uns.
+
+1292
+01:41:43,830 --> 01:41:45,840
+Das muss sofort aufhören.
+
+1293
+01:41:45,840 --> 01:41:48,840
+Du bist das Letzte.
+
+1294
+01:42:07,790 --> 01:42:13,800
+Rettet Saki.
+
+1295
+01:42:55,840 --> 01:42:57,840
+Habe ich Sie gefunden, Hatakeyama-san.
+
+1296
+01:43:05,780 --> 01:43:07,780
+Begleiten Sie mich auf das Polizeirevier?
+
+1297
+01:43:09,790 --> 01:43:14,790
+Sie stehen unter Mordverdacht.
+
+1298
+01:43:18,800 --> 01:43:20,800
+Was soll das heißen?
+
+1299
+01:43:31,810 --> 01:43:40,820
+Auf der vor 14 Jahren benutzten Waffe und beim Mord durch Brandstiftung, fanden wir Schweiß von einer Frau.
+
+1300
+01:43:40,820 --> 01:43:46,820
+Die DNA vom Schweiß und Ihre DNA werden übereinstimmen.
+
+1301
+01:43:49,830 --> 01:43:52,830
+Es war wohlgemeint.
+
+1302
+01:43:52,830 --> 01:43:54,830
+Warum ist das nicht richtig?
+
+1303
+01:43:54,830 --> 01:43:56,830
+Was?
+
+1304
+01:43:56,830 --> 01:43:59,840
+Für den Wunsch ein Baby zu haben würden sie alles tun.
+
+1305
+01:43:59,840 --> 01:44:02,840
+Ich verhelfe ihnen zu ihrem Glück.
+
+1306
+01:44:05,780 --> 01:44:08,780
+Ich helfe ihnen nur.
+
+1307
+01:44:08,780 --> 01:44:10,780
+Ich habe nie Kapital daraus geschlagen.
+
+1308
+01:44:10,780 --> 01:44:13,780
+Das ist kein gut laufendes Geschäft.
+
+1309
+01:44:13,780 --> 01:44:18,780
+Ich fasse das als Geständnis auf.
+
+1310
+01:44:35,830 --> 01:44:38,830
+Tsukamoto-san.
+
+1311
+01:44:45,840 --> 01:44:47,840
+Tsukamoto-san!
+
+1312
+01:44:49,840 --> 01:44:51,840
+Tsukamoto-san.
+
+1313
+01:44:51,840 --> 01:44:55,850
+Sie hat alles durchdacht.
+
+1314
+01:44:55,850 --> 01:44:57,850
+Rede jetzt nicht! Ich werde einen Arzt holen.
+
+1315
+01:45:00,850 --> 01:45:02,850
+Tsukamoto-san.
+
+1316
+01:45:07,860 --> 01:45:10,860
+- Verfolge sie!
+- Aber ...
+
+1317
+01:45:10,860 --> 01:45:14,860
+Du bist eine Kriminalbeamtin! Verfolge sie!
+
+1318
+01:45:24,870 --> 01:45:28,870
+Tsukamoto-san. Tsukamoto-san!
+
+1319
+01:45:30,810 --> 01:45:33,810
+Tsukamoto-san wurde angeschossen.
+
+1320
+01:45:43,830 --> 01:45:46,830
+Ein Arzt ist gleich hier.
+
+1321
+01:45:48,830 --> 01:45:52,840
+Nein ... wird er nicht.
+
+1322
+01:45:52,840 --> 01:45:54,840
+Was?
+
+1323
+01:45:54,840 --> 01:46:01,840
+Der Fall ... beende den Fall.
+
+1324
+01:46:01,840 --> 01:46:11,850
+Ich hätte Katsudon gegessen, wenn alles erledigt gewesen wäre.
+
+1325
+01:46:11,850 --> 01:46:13,850
+Tsukamoto-san.
+
+1326
+01:46:16,860 --> 01:46:18,860
+Tsukamoto-san?
+
+1327
+01:46:27,800 --> 01:46:29,800
+Tsukamoto-san.
+
+1328
+01:46:32,810 --> 01:46:37,810
+Tsukamoto-san! Tsukamoto-san!
+
+1329
+01:46:37,810 --> 01:46:45,810
+Tsukamoto-san! Tsukamoto-san? Tsukamoto-san!
+
+1330
+01:46:47,820 --> 01:46:54,820
+Tsukamoto-san! Tsukamoto-san! Tsukamoto-san!
+
+1331
+01:46:56,830 --> 01:47:02,840
+Tsukamoto-san! Tsukamoto-san!
+
+1332
+01:47:02,840 --> 01:47:04,840
+Tsukamoto-san!
+
+1333
+01:47:05,700 --> 01:47:10,700
+Jôkei ni nureshi hi no bright stone senmei na
+
+1334
+01:47:10,700 --> 01:47:12,700
+Twinkles in the dawn sky
+
+1335
+01:47:12,700 --> 01:47:15,200
+Sô ai o matsu sono sora no ue
+
+1336
+01:47:15,200 --> 01:47:19,700
+As they wait for love
+
+1337
+01:47:19,700 --> 01:47:24,700
+Fly away, high away
+
+1338
+01:47:24,700 --> 01:47:29,700
+Still the moonlight
+
+1339
+01:47:29,700 --> 01:47:34,200
+Fly away, high away
+
+1340
+01:47:34,200 --> 01:47:39,200
+Sailing nowhere
+
+1341
+01:47:39,200 --> 01:47:41,200
+Always got to be there
+
+1342
+01:47:41,200 --> 01:47:42,700
+If you don't run
+
+1343
+01:47:42,700 --> 01:47:47,200
+Waning moon
+
+1344
+01:47:47,200 --> 01:47:49,200
+Above this town
+
+1345
+01:47:49,200 --> 01:47:53,700
+When the sun is hidden by
+
+1346
+01:47:53,700 --> 01:47:58,200
+The fully rounded yellow moon
+
+1347
+01:47:58,200 --> 01:48:06,200
+Away kage wa kiri no yô ni amaku joy town
+
+1348
+01:48:27,700 --> 01:48:32,200
+Ima kureru ma ni tokeru shine
+
+1349
+01:48:32,200 --> 01:48:36,700
+Ano akai oka ni mieru cloud
+
+1350
+01:48:36,700 --> 01:48:44,700
+Away kaze ga hate de oto ni naru dry town
+
+1351
+01:48:44,700 --> 01:48:47,700
+Every little shining eyes
+
+1352
+01:48:47,700 --> 01:48:50,200
+Tsuki o omou sono me wa
+
+1353
+01:48:50,200 --> 01:48:55,700
+Tômei na iro no uta yo dreaming senmei na
+
+1354
+01:48:55,700 --> 01:48:57,700
+Twinkles in the dark sky
+
+1355
+01:48:57,700 --> 01:49:00,700
+Sô ai o motsu sono sora no ue
+
+1356
+01:49:00,700 --> 01:49:04,700
+As they long for love
+
+1357
+01:49:04,700 --> 01:49:09,200
+Fly away, high away
+
+1358
+01:49:09,200 --> 01:49:13,700
+Still the moonlight
+
+1359
+01:49:13,700 --> 01:49:19,200
+Fly away
+
+1360
+01:49:19,200 --> 01:49:24,200
+Untertitel von Schwefelhexafluorid
+
